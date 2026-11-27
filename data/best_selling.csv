@@ -1,0 +1,1201 @@
+product_name,category,month,unit_price,promo_active,marketing_spend,avg_rating,prev_month_units,units_sold_month
+King Burger,1,1,96,0,3300,4.1,501,569
+French Fries Regular,3,11,47,0,8600,3.8,610,700
+Iced Tea,4,9,39,0,7000,3.8,468,533
+Lemonade,4,7,48,0,4600,4.5,293,287
+Halo-Halo,5,9,78,0,6900,4.9,240,272
+Double Cheeseburger,1,9,131,1,6200,3.6,321,323
+King Burger,1,8,92,0,700,4.8,625,636
+Chicken Bucket (6pc),2,11,484,1,6600,4.3,118,171
+Apple Pie,5,4,45,0,5800,3.6,152,135
+Iced Coffee,4,4,59,0,8200,4.8,286,374
+Crispy Fried Chicken (1pc),2,11,100,0,3200,3.3,672,572
+Double Cheeseburger,1,9,127,0,3400,4.2,368,475
+King Burger,1,10,94,0,8100,3.2,492,417
+Iced Tea,4,9,38,0,10900,3.4,470,565
+Crispy Fried Chicken (1pc),2,10,94,0,8600,3.8,513,625
+Onion Rings,3,5,61,0,11900,3.8,236,210
+Soft Serve Cone,5,1,31,0,11200,4.5,331,469
+Soft Serve Cone,5,10,28,0,300,4.1,311,376
+Crispy Fried Chicken (1pc),2,3,101,0,1700,3.9,572,526
+Onion Rings,3,10,57,1,11900,3.8,202,274
+Chicken Sandwich,2,9,99,1,10300,4.9,318,530
+Apple Pie,5,2,45,0,900,4.3,115,145
+Apple Pie,5,4,45,0,3100,4.2,179,163
+French Fries Large,3,11,69,1,2100,4.1,449,497
+French Fries Large,3,10,66,0,6100,3.7,387,438
+Spaghetti,3,4,67,1,10600,3.9,304,340
+Crispy Fried Chicken (1pc),2,8,96,0,4900,3.7,718,666
+Apple Pie,5,11,43,1,9700,3.9,216,263
+Cola,4,2,33,0,11300,4.9,567,1001
+Sundae,5,12,37,1,800,3.7,476,586
+Crispy Fried Chicken (1pc),2,9,101,0,7000,3.6,654,579
+Chicken Tenders,2,12,123,0,7000,4.8,338,474
+Mushroom Burger,1,5,115,0,6900,3.7,166,159
+Crispy Fried Chicken (1pc),2,10,90,0,10900,3.3,443,494
+Spaghetti,3,8,66,0,9900,4.4,327,332
+Lemonade,4,4,46,1,9500,3.6,194,251
+Chicken Bucket (6pc),2,3,435,0,9200,4.2,122,121
+Cola,4,8,37,0,800,3.3,621,500
+Chicken Bucket (6pc),2,3,462,0,2000,3.4,104,87
+Sundae,5,11,41,1,1000,4.6,331,530
+Chicken Bucket (6pc),2,12,435,0,5200,4.0,146,143
+Sundae,5,12,41,0,7300,4.8,447,595
+Bacon Deluxe Burger,1,2,144,0,5600,4.6,131,179
+Bacon Deluxe Burger,1,3,150,0,10400,4.9,186,233
+Chicken Sandwich,2,11,106,0,2100,4.5,455,441
+King Burger,1,6,85,1,8000,4.4,447,681
+Mushroom Burger,1,2,114,0,1300,4.3,151,212
+Halo-Halo,5,4,81,1,9100,4.9,230,432
+Sundae,5,8,42,0,5300,4.6,380,380
+French Fries Regular,3,11,47,0,10700,3.9,813,828
+Double Cheeseburger,1,7,130,0,1400,3.5,370,368
+French Fries Large,3,10,67,0,1100,4.4,330,435
+Iced Coffee,4,8,63,1,5400,4.0,282,328
+Lemonade,4,12,46,0,2900,4.3,325,409
+Onion Rings,3,9,59,0,1800,3.7,210,233
+Spaghetti,3,7,66,0,10200,3.7,228,310
+French Fries Large,3,1,71,0,6800,4.1,304,329
+Lemonade,4,1,43,0,5200,3.2,230,211
+Chicken Bucket (6pc),2,7,458,0,2200,3.3,92,83
+French Fries Regular,3,5,49,0,8300,4.3,846,1044
+Chicken Sandwich,2,5,95,0,5600,3.6,282,265
+Spaghetti,3,3,68,0,1400,4.8,313,291
+Onion Rings,3,12,59,1,3400,3.6,227,237
+Sundae,5,4,42,0,2300,3.3,330,227
+Chicken Bucket (6pc),2,3,467,0,9200,3.6,100,119
+Spaghetti,3,7,64,1,10600,3.8,235,336
+Double Cheeseburger,1,2,132,0,10800,3.6,341,321
+King Burger,1,12,87,1,5400,4.9,560,966
+Iced Tea,4,8,39,0,4500,3.6,586,573
+Halo-Halo,5,8,81,0,10500,3.4,192,194
+Soft Serve Cone,5,6,29,0,900,3.7,334,307
+French Fries Regular,3,4,51,1,5900,4.8,684,923
+Double Cheeseburger,1,9,132,0,200,3.4,399,377
+Spaghetti,3,2,63,0,500,4.4,263,332
+Crispy Fried Chicken (1pc),2,5,94,1,5600,3.7,588,683
+Double Cheeseburger,1,5,134,0,2000,4.8,331,464
+French Fries Regular,3,11,52,1,10200,4.2,707,1033
+Spaghetti,3,1,68,1,6800,4.4,216,321
+Chicken Sandwich,2,6,102,0,4400,3.9,289,288
+Bacon Deluxe Burger,1,10,149,0,7500,4.4,186,225
+Chicken Sandwich,2,10,106,0,2200,4.1,302,323
+Crispy Fried Chicken (1pc),2,1,91,0,2600,4.4,384,505
+Apple Pie,5,12,45,0,4900,3.7,206,197
+Soft Serve Cone,5,2,29,0,6900,4.5,381,502
+Chicken Tenders,2,5,125,0,1200,4.1,218,225
+Chicken Bucket (6pc),2,8,454,0,12000,4.1,128,126
+Spaghetti,3,9,63,1,4800,4.9,355,466
+Bacon Deluxe Burger,1,7,149,1,4800,4.7,200,370
+Mushroom Burger,1,9,117,1,9400,4.2,203,265
+Double Cheeseburger,1,3,135,0,5300,3.8,322,326
+Apple Pie,5,10,43,0,11300,4.6,150,209
+Apple Pie,5,11,44,0,4200,4.6,133,178
+Apple Pie,5,11,45,1,6500,4.3,190,298
+Onion Rings,3,1,59,0,10500,4.0,207,220
+Cola,4,3,36,0,6300,4.0,632,649
+Chicken Bucket (6pc),2,7,446,0,2900,3.3,95,101
+Chicken Sandwich,2,11,98,0,400,3.8,273,250
+Chicken Tenders,2,3,115,0,800,3.3,224,195
+Crispy Fried Chicken (1pc),2,5,98,1,4000,3.9,517,715
+Bacon Deluxe Burger,1,2,146,0,10000,4.5,154,236
+Double Cheeseburger,1,1,134,0,3300,3.4,352,282
+Mushroom Burger,1,12,124,0,10800,3.6,220,207
+French Fries Large,3,5,67,0,2200,4.1,313,363
+French Fries Large,3,9,69,1,10100,4.0,473,538
+French Fries Regular,3,12,52,0,10500,3.7,988,1006
+Chicken Tenders,2,6,115,0,4300,3.6,248,285
+French Fries Regular,3,12,50,0,7600,3.7,984,954
+Cola,4,10,38,1,9700,3.8,666,849
+Sundae,5,5,42,0,8300,4.3,353,368
+King Burger,1,6,94,0,6400,4.4,534,551
+Halo-Halo,5,3,76,0,11200,4.8,189,254
+Crispy Fried Chicken (1pc),2,11,102,0,8800,4.4,661,724
+Onion Rings,3,1,63,0,10600,4.8,195,199
+Crispy Fried Chicken (1pc),2,3,91,0,2100,3.9,672,676
+Mushroom Burger,1,5,119,0,1300,3.8,204,172
+Halo-Halo,5,9,81,1,11200,4.8,217,392
+French Fries Regular,3,8,50,0,1000,4.6,748,867
+Soft Serve Cone,5,1,30,0,11000,4.2,316,335
+Halo-Halo,5,3,82,0,8100,4.9,214,249
+French Fries Regular,3,10,52,1,9600,4.6,867,1253
+Soft Serve Cone,5,6,29,0,500,4.8,463,556
+Mushroom Burger,1,7,126,1,6300,3.7,158,228
+Apple Pie,5,5,43,1,4300,3.8,165,229
+Chicken Tenders,2,10,120,0,1500,3.9,285,280
+Mushroom Burger,1,3,117,0,3500,3.3,146,138
+Double Cheeseburger,1,8,132,1,8500,4.3,359,511
+Cola,4,1,35,0,7300,4.5,723,808
+Double Cheeseburger,1,12,129,1,9500,3.8,313,484
+King Burger,1,1,95,0,4900,3.4,630,444
+Chicken Tenders,2,8,115,0,900,4.7,180,278
+King Burger,1,9,96,1,5300,4.8,334,583
+Lemonade,4,1,43,0,8200,3.5,226,223
+Double Cheeseburger,1,4,139,0,7600,3.5,376,328
+Onion Rings,3,8,57,1,200,3.6,186,195
+Double Cheeseburger,1,2,139,0,10200,4.4,367,421
+Iced Coffee,4,2,59,1,500,4.0,262,338
+Chicken Tenders,2,6,123,0,10500,3.7,254,255
+French Fries Large,3,5,68,0,600,3.9,409,354
+Lemonade,4,6,43,0,1500,4.3,233,269
+Iced Coffee,4,6,56,1,9500,3.9,226,339
+Cola,4,1,34,0,2900,3.5,591,454
+Chicken Sandwich,2,4,98,0,5600,4.6,246,304
+Iced Tea,4,7,38,0,9800,3.9,561,559
+Apple Pie,5,10,48,0,900,4.3,144,167
+Sundae,5,9,40,0,10600,3.5,335,316
+Halo-Halo,5,8,77,0,11400,4.7,210,276
+Lemonade,4,12,45,0,11100,4.2,242,340
+Crispy Fried Chicken (1pc),2,7,90,0,3900,4.8,567,821
+Sundae,5,11,42,0,4900,3.9,410,295
+Sundae,5,7,41,1,4700,3.8,420,412
+Chicken Tenders,2,10,115,1,100,4.2,246,393
+Double Cheeseburger,1,5,128,0,8400,4.4,376,478
+Onion Rings,3,6,57,0,5500,4.6,137,191
+Mushroom Burger,1,2,123,1,10700,4.2,154,244
+Mushroom Burger,1,10,120,0,8700,4.2,136,167
+Chicken Tenders,2,12,125,1,8000,4.1,279,404
+Halo-Halo,5,6,80,0,6000,4.3,146,184
+Chicken Sandwich,2,5,105,1,1100,4.6,332,360
+French Fries Regular,3,6,51,0,4100,4.6,564,726
+Spaghetti,3,6,65,0,1200,4.1,235,293
+Iced Coffee,4,12,58,0,0,4.6,302,333
+Iced Tea,4,5,37,0,11800,3.5,602,622
+Mushroom Burger,1,3,119,0,11500,4.9,204,278
+French Fries Regular,3,10,53,0,1300,3.4,676,473
+Iced Coffee,4,10,58,0,2400,3.7,332,294
+Double Cheeseburger,1,1,128,0,5900,3.7,391,379
+Crispy Fried Chicken (1pc),2,4,91,0,4100,4.7,555,752
+Apple Pie,5,11,45,0,6800,3.4,176,145
+Chicken Tenders,2,2,115,0,10100,4.4,268,280
+Iced Tea,4,7,38,0,7900,3.6,640,600
+Iced Coffee,4,10,59,1,400,4.3,249,355
+French Fries Large,3,2,67,0,3700,3.8,272,352
+French Fries Large,3,4,67,0,5300,4.8,383,515
+Cola,4,12,38,1,1600,3.7,698,778
+Cola,4,2,36,0,6500,3.7,524,529
+Double Cheeseburger,1,11,135,0,7100,3.4,390,296
+Iced Tea,4,4,41,0,10100,4.2,629,645
+Halo-Halo,5,5,77,1,8200,3.7,227,313
+Chicken Bucket (6pc),2,2,439,0,10600,4.6,126,159
+French Fries Large,3,8,70,0,600,4.7,449,442
+Double Cheeseburger,1,8,123,0,1200,3.9,281,340
+Crispy Fried Chicken (1pc),2,6,101,0,900,4.2,357,512
+Halo-Halo,5,6,80,0,8900,4.3,175,239
+French Fries Regular,3,11,52,0,5600,4.6,733,800
+Onion Rings,3,7,63,0,1200,3.4,257,184
+Chicken Tenders,2,12,119,1,10300,4.4,303,425
+King Burger,1,3,91,0,8300,3.3,550,404
+Chicken Bucket (6pc),2,1,438,0,8100,3.3,202,140
+Halo-Halo,5,2,82,0,7700,3.4,175,179
+Spaghetti,3,6,64,1,6300,4.3,306,514
+French Fries Regular,3,3,48,0,5100,3.4,626,557
+King Burger,1,12,95,1,3400,3.5,843,730
+Halo-Halo,5,11,85,0,1500,4.4,235,244
+Lemonade,4,5,44,0,3200,4.4,318,310
+Iced Coffee,4,12,57,0,300,4.7,378,448
+Chicken Sandwich,2,2,101,0,2600,3.5,248,190
+Onion Rings,3,1,62,0,8100,4.1,169,170
+Bacon Deluxe Burger,1,9,146,0,3200,3.2,215,177
+Chicken Sandwich,2,3,102,0,3100,3.5,296,274
+Iced Coffee,4,11,63,0,3400,3.4,294,259
+Crispy Fried Chicken (1pc),2,3,96,0,11500,4.5,576,725
+Crispy Fried Chicken (1pc),2,8,98,0,2300,3.5,690,540
+Crispy Fried Chicken (1pc),2,8,102,0,3500,4.8,617,741
+Sundae,5,11,41,0,3100,4.5,361,395
+Iced Tea,4,2,38,0,10100,3.6,480,526
+Bacon Deluxe Burger,1,10,158,0,9100,3.2,249,203
+French Fries Regular,3,3,49,0,11600,3.3,806,558
+Chicken Bucket (6pc),2,12,475,0,8000,4.4,137,180
+Double Cheeseburger,1,8,129,0,9500,3.9,409,404
+Chicken Sandwich,2,4,100,0,10900,3.2,245,248
+Bacon Deluxe Burger,1,4,160,0,2800,4.3,265,240
+French Fries Large,3,1,72,0,1200,3.8,370,362
+Iced Tea,4,12,39,1,7000,4.6,653,1114
+Iced Coffee,4,9,59,1,500,4.6,278,391
+Onion Rings,3,7,61,0,8800,3.8,206,202
+Mushroom Burger,1,5,127,0,3000,3.8,185,170
+Iced Coffee,4,7,60,0,8300,3.4,296,233
+Iced Tea,4,4,40,1,8300,3.7,713,837
+French Fries Large,3,3,68,0,8800,4.3,291,382
+Lemonade,4,6,45,0,4100,4.1,263,296
+Chicken Tenders,2,2,119,0,8200,3.7,211,224
+Crispy Fried Chicken (1pc),2,12,99,1,11300,4.8,696,1160
+Chicken Tenders,2,11,121,0,1200,4.1,354,359
+Soft Serve Cone,5,10,29,1,9300,3.4,483,553
+Onion Rings,3,9,60,0,5900,3.4,181,153
+Double Cheeseburger,1,1,131,0,1500,4.5,371,404
+Onion Rings,3,5,62,0,4500,3.9,182,222
+Chicken Tenders,2,5,115,0,11000,4.3,242,327
+Apple Pie,5,3,47,0,10200,4.2,121,138
+King Burger,1,11,95,0,2300,3.4,593,433
+Double Cheeseburger,1,9,133,1,8200,4.7,224,439
+Onion Rings,3,9,57,0,1500,4.0,195,200
+Cola,4,10,37,0,6500,4.0,587,570
+Bacon Deluxe Burger,1,1,154,1,1400,4.2,199,245
+Onion Rings,3,2,61,0,1000,3.7,145,109
+Mushroom Burger,1,2,122,0,6100,4.1,164,178
+Chicken Tenders,2,7,120,0,2800,3.7,203,196
+Onion Rings,3,3,59,0,300,4.3,189,188
+Chicken Bucket (6pc),2,9,450,1,6800,4.1,125,149
+Sundae,5,5,41,0,8400,3.6,311,305
+Iced Coffee,4,10,61,0,11200,4.8,254,358
+Chicken Sandwich,2,3,102,0,7800,4.9,300,334
+Mushroom Burger,1,11,126,1,1700,4.4,170,227
+Mushroom Burger,1,3,126,1,3100,4.2,169,243
+Apple Pie,5,6,48,0,11600,3.9,186,191
+King Burger,1,8,92,0,3600,4.0,567,593
+Chicken Bucket (6pc),2,7,456,0,9600,3.5,157,120
+King Burger,1,10,94,0,9000,3.7,538,533
+Double Cheeseburger,1,3,127,0,8400,3.5,343,323
+Spaghetti,3,7,68,1,6700,4.8,225,378
+Chicken Bucket (6pc),2,11,451,0,9600,4.3,125,143
+Lemonade,4,5,45,0,9800,4.5,338,329
+Soft Serve Cone,5,8,30,0,4000,4.6,416,430
+Lemonade,4,8,45,0,8800,3.7,268,294
+Chicken Tenders,2,12,117,0,9500,4.8,283,409
+Chicken Bucket (6pc),2,4,474,1,11200,3.3,103,140
+Chicken Tenders,2,10,124,0,0,3.5,356,247
+Apple Pie,5,1,46,0,9600,3.8,151,127
+Double Cheeseburger,1,8,128,0,8200,4.4,330,426
+Spaghetti,3,3,68,0,300,3.5,235,221
+Iced Coffee,4,4,63,0,10700,4.7,192,353
+Bacon Deluxe Burger,1,9,157,0,3700,3.9,201,179
+French Fries Large,3,12,71,0,11000,3.4,436,388
+Lemonade,4,2,43,0,6800,4.6,196,272
+Cola,4,9,36,0,2600,4.5,707,737
+Cola,4,7,36,0,6900,4.0,749,718
+French Fries Regular,3,3,53,0,6300,4.9,610,679
+Double Cheeseburger,1,11,126,0,11000,4.9,315,546
+Chicken Sandwich,2,3,105,1,200,4.8,300,393
+French Fries Regular,3,10,52,0,7200,4.0,691,760
+Cola,4,3,35,0,6800,3.4,855,662
+Cola,4,5,36,1,7700,3.9,768,1089
+Crispy Fried Chicken (1pc),2,1,97,0,300,3.4,484,433
+French Fries Large,3,10,71,0,1400,3.4,473,337
+Bacon Deluxe Burger,1,3,155,1,3100,4.7,230,375
+Lemonade,4,9,47,1,11500,4.1,361,450
+Iced Coffee,4,11,59,0,11000,3.5,283,338
+French Fries Regular,3,1,48,0,1800,4.5,586,652
+Bacon Deluxe Burger,1,2,146,0,3500,4.9,228,225
+King Burger,1,12,93,0,7400,4.4,590,687
+Spaghetti,3,6,65,0,3700,3.9,276,277
+Crispy Fried Chicken (1pc),2,1,93,0,10500,3.4,557,591
+Double Cheeseburger,1,8,136,0,9600,4.1,332,390
+Sundae,5,1,39,1,10000,3.4,321,397
+Double Cheeseburger,1,11,128,1,1800,4.1,447,698
+Lemonade,4,1,45,0,1500,4.1,238,263
+Iced Tea,4,11,38,0,4900,3.7,693,665
+Onion Rings,3,7,59,0,2800,4.1,147,162
+Soft Serve Cone,5,7,29,0,8200,4.1,315,383
+Bacon Deluxe Burger,1,11,150,0,2800,4.3,234,241
+French Fries Large,3,10,70,1,6900,3.5,364,419
+Spaghetti,3,11,63,0,2900,3.7,388,335
+French Fries Large,3,8,66,0,3600,4.6,316,370
+Iced Coffee,4,11,58,0,1400,4.4,298,339
+Lemonade,4,6,43,0,10100,3.7,192,240
+Double Cheeseburger,1,1,124,1,11500,4.4,314,468
+Chicken Tenders,2,3,128,0,7800,3.7,245,210
+Sundae,5,10,41,0,400,4.2,357,290
+Iced Tea,4,10,39,0,5000,3.9,661,594
+Cola,4,10,34,0,2600,4.0,582,620
+Bacon Deluxe Burger,1,5,154,0,6900,3.2,197,197
+Chicken Bucket (6pc),2,4,442,0,10100,4.6,85,134
+Iced Coffee,4,8,59,0,9600,4.0,325,345
+Sundae,5,6,37,0,3700,4.8,354,425
+Cola,4,9,37,0,9100,3.8,522,626
+King Burger,1,1,89,0,9800,4.1,470,640
+French Fries Regular,3,2,53,0,9600,3.4,551,525
+French Fries Regular,3,10,51,1,100,4.2,565,810
+Mushroom Burger,1,3,124,0,1200,4.7,136,204
+French Fries Large,3,4,66,0,500,3.8,446,367
+Chicken Bucket (6pc),2,11,451,0,1700,3.9,104,111
+Halo-Halo,5,9,76,1,3600,3.7,236,315
+Lemonade,4,11,45,1,5200,4.3,235,405
+Iced Coffee,4,11,58,0,1500,4.7,318,395
+Cola,4,1,37,1,8900,3.7,711,765
+French Fries Large,3,3,67,0,7700,3.2,433,381
+Cola,4,3,36,0,11800,3.6,628,573
+Iced Tea,4,9,37,1,1800,4.8,519,974
+Chicken Bucket (6pc),2,1,472,1,11000,4.9,125,144
+Chicken Bucket (6pc),2,10,469,0,3600,3.7,116,95
+French Fries Regular,3,2,47,0,8700,4.8,637,869
+Apple Pie,5,3,44,0,5600,3.7,131,126
+Halo-Halo,5,5,79,0,9400,4.7,197,271
+Sundae,5,3,39,1,2300,4.7,315,464
+French Fries Regular,3,10,51,1,2300,3.7,506,496
+French Fries Regular,3,8,47,0,6200,3.8,844,894
+Lemonade,4,7,43,0,9700,3.8,240,277
+French Fries Regular,3,10,50,0,7100,4.6,814,1077
+Chicken Sandwich,2,7,99,1,3600,3.7,304,314
+Iced Coffee,4,1,60,0,800,3.3,219,167
+Mushroom Burger,1,5,120,0,5700,4.8,172,237
+King Burger,1,11,93,1,8300,4.4,609,739
+Apple Pie,5,1,47,1,1000,3.8,179,212
+Iced Tea,4,9,41,0,8600,3.5,568,491
+Iced Tea,4,2,39,0,1400,3.9,656,569
+Iced Tea,4,8,41,0,8100,4.4,606,683
+Mushroom Burger,1,4,123,1,7300,4.8,192,309
+Halo-Halo,5,6,82,0,6500,3.9,203,192
+Double Cheeseburger,1,12,127,1,9000,4.2,385,637
+Mushroom Burger,1,5,122,0,7100,3.9,216,222
+Bacon Deluxe Burger,1,9,155,0,900,4.7,244,264
+Lemonade,4,12,48,0,700,3.4,270,236
+Iced Coffee,4,1,62,0,3300,3.2,319,259
+Mushroom Burger,1,3,123,0,1700,4.7,165,215
+Chicken Tenders,2,8,114,1,11100,3.9,282,357
+Mushroom Burger,1,10,114,0,3500,3.5,190,192
+Cola,4,3,38,0,1300,3.4,502,411
+Iced Tea,4,8,38,0,2700,3.5,577,597
+Chicken Bucket (6pc),2,4,479,1,5300,4.9,132,175
+Double Cheeseburger,1,3,138,1,12000,4.4,395,576
+King Burger,1,1,88,0,10000,4.6,368,468
+Iced Tea,4,1,42,1,6000,4.4,596,773
+Soft Serve Cone,5,12,30,0,4300,4.4,467,473
+French Fries Regular,3,1,47,0,4800,3.5,770,653
+Spaghetti,3,11,65,0,200,3.3,418,334
+Chicken Tenders,2,5,116,0,9000,4.1,203,256
+Mushroom Burger,1,7,124,0,8000,4.6,146,222
+Lemonade,4,5,48,0,12000,3.3,247,208
+Apple Pie,5,11,46,0,2900,4.3,126,144
+Chicken Tenders,2,10,115,1,4800,3.7,259,284
+Apple Pie,5,4,47,0,7300,3.2,153,144
+French Fries Large,3,1,69,0,6600,4.1,394,403
+Cola,4,7,37,0,2000,3.5,633,498
+Cola,4,5,34,0,6200,4.8,581,780
+Iced Tea,4,6,42,0,7500,3.8,480,596
+Mushroom Burger,1,6,121,0,2300,3.7,134,118
+Double Cheeseburger,1,8,123,1,3800,4.2,364,490
+French Fries Regular,3,8,51,0,1000,4.1,945,857
+Onion Rings,3,11,59,0,900,4.2,192,226
+French Fries Regular,3,7,48,0,11200,4.6,645,884
+Double Cheeseburger,1,8,135,0,9500,4.1,376,390
+King Burger,1,11,91,0,10800,3.8,681,811
+Iced Coffee,4,12,57,0,6800,4.1,328,363
+French Fries Regular,3,7,52,0,1600,3.4,717,569
+Apple Pie,5,10,45,0,6700,4.3,145,181
+Sundae,5,1,39,1,10000,4.2,322,397
+King Burger,1,10,88,0,0,4.1,588,523
+Chicken Sandwich,2,9,102,0,4700,3.4,306,307
+Iced Tea,4,9,41,0,9200,4.7,553,747
+Crispy Fried Chicken (1pc),2,1,101,1,1400,3.7,579,614
+Chicken Sandwich,2,1,100,1,2400,4.3,413,458
+Chicken Sandwich,2,7,101,0,8200,3.9,297,362
+Mushroom Burger,1,7,116,0,400,4.9,202,231
+King Burger,1,8,86,0,9200,3.5,596,460
+Crispy Fried Chicken (1pc),2,11,94,1,8300,4.4,787,1284
+French Fries Regular,3,6,51,0,2000,4.5,668,694
+Mushroom Burger,1,7,114,0,5600,3.9,200,264
+French Fries Regular,3,7,51,0,3800,4.8,634,938
+Soft Serve Cone,5,11,30,0,2100,4.9,394,496
+Iced Tea,4,1,38,0,11100,3.5,528,527
+Chicken Sandwich,2,5,97,1,6300,4.5,293,415
+Chicken Tenders,2,1,128,0,1400,3.8,204,217
+Double Cheeseburger,1,6,126,0,9300,3.5,333,337
+Crispy Fried Chicken (1pc),2,7,94,0,1000,3.3,588,583
+Crispy Fried Chicken (1pc),2,2,95,0,5400,4.2,562,685
+Apple Pie,5,12,43,0,6100,4.7,210,273
+Iced Tea,4,10,40,1,4300,3.5,618,724
+Crispy Fried Chicken (1pc),2,11,99,0,1100,4.4,692,821
+Spaghetti,3,12,69,1,8000,4.3,403,535
+Double Cheeseburger,1,5,126,0,6200,4.3,348,394
+Cola,4,8,36,0,7900,3.6,475,535
+Onion Rings,3,4,58,0,6000,4.3,223,224
+Halo-Halo,5,11,82,0,5400,4.2,309,344
+Sundae,5,12,37,1,5600,4.2,463,574
+Crispy Fried Chicken (1pc),2,2,96,0,10300,3.7,644,602
+Halo-Halo,5,2,75,0,3000,4.2,153,217
+Sundae,5,4,40,0,9700,4.2,385,398
+Chicken Tenders,2,9,122,0,9900,4.3,213,307
+Sundae,5,11,41,0,2100,3.9,286,246
+Chicken Bucket (6pc),2,4,478,0,8700,4.9,142,166
+Iced Tea,4,8,40,0,4600,3.4,424,388
+Chicken Tenders,2,8,116,0,11700,3.3,272,257
+Sundae,5,7,41,0,10400,4.2,312,333
+Chicken Tenders,2,8,124,0,8900,3.9,292,259
+Crispy Fried Chicken (1pc),2,8,94,0,11800,4.7,507,719
+Iced Tea,4,9,41,0,10300,3.9,602,627
+Onion Rings,3,8,60,1,600,4.3,171,230
+French Fries Large,3,8,69,0,9500,3.5,336,292
+Iced Tea,4,8,40,0,10800,4.5,647,825
+French Fries Large,3,5,67,0,11500,3.7,413,432
+French Fries Regular,3,12,50,1,100,4.9,609,1107
+French Fries Large,3,3,73,0,6200,3.4,345,329
+Iced Coffee,4,7,63,0,5200,3.8,351,291
+Iced Tea,4,3,42,0,9700,4.8,572,716
+Mushroom Burger,1,6,115,0,400,4.0,240,232
+Lemonade,4,1,48,1,2100,4.8,330,433
+King Burger,1,11,95,0,2700,4.1,441,555
+Double Cheeseburger,1,5,131,1,3800,4.0,378,430
+Sundae,5,6,39,0,9700,3.3,322,290
+Lemonade,4,10,43,0,5400,4.4,296,385
+Onion Rings,3,8,57,1,8000,4.0,213,295
+Chicken Bucket (6pc),2,9,475,1,7100,3.3,100,118
+Sundae,5,8,39,0,5800,3.9,276,327
+King Burger,1,11,91,1,9100,4.7,744,1034
+Chicken Sandwich,2,10,101,0,8100,4.8,302,381
+Bacon Deluxe Burger,1,7,145,0,9100,3.5,165,192
+Chicken Sandwich,2,7,103,1,3200,4.6,270,350
+Sundae,5,8,39,0,0,4.6,308,441
+French Fries Large,3,4,66,0,11300,4.8,378,506
+Spaghetti,3,8,64,0,4400,3.6,304,258
+Cola,4,1,36,0,7000,4.6,535,718
+Apple Pie,5,12,43,0,800,4.5,164,201
+Crispy Fried Chicken (1pc),2,3,99,0,3900,3.7,634,544
+Spaghetti,3,10,63,1,10800,4.4,331,549
+Crispy Fried Chicken (1pc),2,2,91,0,10900,4.4,504,870
+Iced Tea,4,11,40,0,2100,3.9,604,584
+Lemonade,4,4,47,1,4500,3.5,255,300
+Mushroom Burger,1,8,115,0,6800,4.8,182,248
+Soft Serve Cone,5,9,28,1,6200,4.5,430,595
+French Fries Regular,3,10,50,0,9700,3.8,713,780
+Bacon Deluxe Burger,1,1,143,1,5200,4.1,238,303
+French Fries Large,3,4,72,0,6800,3.6,325,330
+Cola,4,11,35,0,6900,3.5,655,679
+Sundae,5,4,41,0,9000,3.5,352,301
+Iced Coffee,4,7,63,0,12000,4.7,255,296
+Halo-Halo,5,12,84,1,6400,4.1,216,307
+Double Cheeseburger,1,4,125,0,300,4.4,355,412
+Soft Serve Cone,5,6,31,0,3400,4.7,393,505
+Sundae,5,2,39,1,10900,4.3,374,519
+Cola,4,5,33,0,4300,3.5,757,770
+Iced Coffee,4,10,58,0,5500,3.6,246,302
+Lemonade,4,4,47,0,800,3.3,168,149
+Double Cheeseburger,1,8,135,0,9300,3.6,294,279
+Mushroom Burger,1,4,122,0,9200,4.2,200,209
+King Burger,1,3,92,0,0,3.4,433,368
+French Fries Regular,3,8,48,0,2800,3.3,682,524
+Onion Rings,3,3,63,0,8100,3.7,172,182
+King Burger,1,4,92,0,10400,4.8,523,709
+Lemonade,4,8,47,0,9700,3.6,240,204
+Apple Pie,5,11,43,1,4800,4.1,150,202
+Spaghetti,3,10,62,1,1800,3.3,234,305
+Mushroom Burger,1,2,114,0,11800,3.9,144,140
+Mushroom Burger,1,11,125,0,6000,4.0,209,221
+Apple Pie,5,1,47,0,10600,4.4,119,134
+Halo-Halo,5,2,81,0,8400,3.8,198,176
+Chicken Tenders,2,4,119,0,7800,4.0,303,303
+Cola,4,11,38,1,100,3.6,639,687
+French Fries Large,3,2,66,0,6700,4.2,286,421
+Mushroom Burger,1,5,126,0,3900,4.1,194,190
+Apple Pie,5,5,44,0,4700,4.6,133,177
+Cola,4,7,37,0,8700,3.3,543,515
+Iced Coffee,4,3,59,1,200,3.4,213,212
+Iced Coffee,4,12,61,0,0,4.0,373,375
+Chicken Sandwich,2,12,104,0,2700,3.2,460,287
+Chicken Sandwich,2,2,107,0,8300,3.3,247,160
+Crispy Fried Chicken (1pc),2,10,94,0,7200,4.4,751,794
+Soft Serve Cone,5,3,28,1,0,3.2,420,462
+Iced Tea,4,11,39,0,4600,3.6,899,705
+Cola,4,11,38,0,12000,3.9,606,602
+Mushroom Burger,1,3,115,0,7000,3.4,187,179
+Bacon Deluxe Burger,1,11,161,0,3800,4.7,223,263
+Apple Pie,5,4,43,0,4900,3.6,129,104
+King Burger,1,8,89,0,9900,4.1,462,534
+Chicken Bucket (6pc),2,9,446,1,9700,3.3,109,106
+Spaghetti,3,5,69,0,2400,3.6,253,263
+Spaghetti,3,2,66,0,9900,4.2,285,344
+Mushroom Burger,1,9,114,0,6900,3.5,168,158
+Cola,4,3,35,0,6300,4.3,518,613
+Double Cheeseburger,1,12,132,0,1200,3.7,568,464
+King Burger,1,5,90,0,9000,4.0,624,596
+Cola,4,12,34,0,7200,3.5,867,868
+French Fries Large,3,8,72,0,11900,4.0,425,406
+Lemonade,4,6,46,1,8800,4.3,332,404
+Onion Rings,3,4,61,0,6900,4.7,209,275
+Onion Rings,3,2,59,0,7000,3.2,248,181
+Double Cheeseburger,1,3,128,0,10900,3.8,413,383
+Apple Pie,5,12,44,0,3100,4.2,171,202
+Cola,4,2,35,0,1100,4.3,767,658
+Mushroom Burger,1,1,114,0,2200,3.6,191,173
+Iced Coffee,4,4,63,0,7500,3.5,270,270
+Iced Tea,4,8,40,0,5400,4.2,617,633
+Soft Serve Cone,5,5,28,0,10200,3.8,446,434
+Iced Coffee,4,6,62,1,11600,3.5,209,290
+Mushroom Burger,1,1,116,0,3100,3.9,193,173
+Double Cheeseburger,1,7,128,0,8700,4.7,383,508
+Soft Serve Cone,5,1,31,1,10200,3.3,361,392
+Sundae,5,8,40,0,10900,4.2,284,311
+Crispy Fried Chicken (1pc),2,10,94,1,2200,3.2,635,704
+Iced Coffee,4,6,61,1,10000,3.7,176,231
+Apple Pie,5,8,45,0,9900,3.8,177,204
+Chicken Tenders,2,6,123,0,10300,3.7,188,253
+Mushroom Burger,1,6,116,0,5200,3.9,181,225
+Double Cheeseburger,1,2,138,0,2400,3.2,346,250
+Iced Tea,4,4,41,0,800,3.5,565,576
+Bacon Deluxe Burger,1,12,142,1,4100,3.4,226,234
+Cola,4,7,36,1,2500,4.6,672,933
+Apple Pie,5,8,48,1,2300,3.6,146,160
+Sundae,5,9,41,0,7000,3.6,316,324
+Iced Tea,4,12,38,0,9900,4.1,794,1004
+Halo-Halo,5,8,82,0,8500,4.3,185,182
+Chicken Sandwich,2,8,105,0,3100,3.7,257,295
+Sundae,5,12,40,0,4300,4.3,576,615
+Cola,4,8,37,0,6300,3.3,638,448
+Crispy Fried Chicken (1pc),2,8,97,0,5600,4.3,595,660
+Iced Tea,4,2,37,0,600,4.3,612,711
+Chicken Sandwich,2,1,102,0,3300,4.2,266,265
+Iced Coffee,4,3,58,0,200,3.8,271,248
+Crispy Fried Chicken (1pc),2,7,97,0,400,4.4,467,535
+Cola,4,4,37,1,6800,4.1,855,957
+Chicken Bucket (6pc),2,1,449,1,5300,3.6,112,144
+French Fries Large,3,12,71,0,2200,4.2,369,426
+Crispy Fried Chicken (1pc),2,10,100,0,7300,4.5,754,757
+Bacon Deluxe Burger,1,2,144,1,800,4.8,208,301
+Spaghetti,3,10,68,0,8400,4.6,231,299
+Chicken Tenders,2,4,123,0,8900,4.1,230,308
+Halo-Halo,5,6,80,1,2800,3.9,205,272
+Cola,4,12,33,0,11000,4.0,1089,1099
+Mushroom Burger,1,5,119,0,12000,4.5,168,186
+Chicken Sandwich,2,2,97,0,4600,3.4,272,234
+Crispy Fried Chicken (1pc),2,6,98,1,0,3.4,666,728
+Iced Tea,4,6,40,0,7600,4.4,666,727
+Bacon Deluxe Burger,1,4,151,0,900,3.3,298,241
+Apple Pie,5,6,46,0,5800,3.4,166,132
+Spaghetti,3,11,69,1,6700,3.6,211,329
+Onion Rings,3,2,60,0,900,4.2,170,166
+Halo-Halo,5,6,85,0,2700,4.0,257,248
+Double Cheeseburger,1,1,125,0,11000,3.2,266,294
+Onion Rings,3,8,58,1,11800,4.4,229,349
+Crispy Fried Chicken (1pc),2,2,94,0,11800,4.0,515,670
+Soft Serve Cone,5,12,29,0,3100,4.2,607,502
+Halo-Halo,5,12,75,0,1000,3.4,302,254
+Sundae,5,9,38,1,3200,3.2,348,421
+Cola,4,11,36,0,11000,4.4,852,950
+French Fries Large,3,12,73,0,1500,4.4,503,443
+Chicken Tenders,2,11,119,0,2200,4.3,257,324
+Onion Rings,3,12,56,0,11300,4.4,284,300
+French Fries Regular,3,2,53,0,5700,4.3,582,646
+Cola,4,1,36,0,7000,4.1,624,694
+Lemonade,4,10,44,1,4000,4.6,235,371
+Soft Serve Cone,5,6,30,0,10600,3.9,411,427
+Bacon Deluxe Burger,1,4,143,0,4200,4.8,192,295
+Spaghetti,3,4,68,1,6400,4.4,311,450
+French Fries Large,3,11,71,0,11400,3.4,500,476
+Apple Pie,5,12,45,0,5600,4.7,222,211
+Apple Pie,5,4,44,0,900,4.3,150,185
+Onion Rings,3,10,62,0,200,4.7,248,212
+King Burger,1,1,89,0,7600,4.1,492,643
+Chicken Bucket (6pc),2,3,451,0,8300,3.7,88,102
+Onion Rings,3,7,63,0,5500,3.9,184,184
+Sundae,5,7,42,0,8900,3.6,389,377
+Crispy Fried Chicken (1pc),2,12,103,0,900,4.5,653,832
+Spaghetti,3,10,67,0,5000,4.5,191,253
+Iced Coffee,4,3,59,0,0,3.9,308,270
+Iced Coffee,4,6,62,0,5600,3.6,204,194
+Chicken Bucket (6pc),2,1,468,0,2400,4.0,132,98
+Halo-Halo,5,12,77,1,200,3.6,254,276
+French Fries Regular,3,7,48,0,1500,3.9,582,551
+King Burger,1,11,89,0,7800,3.8,621,724
+French Fries Regular,3,5,52,0,3400,3.5,789,625
+Sundae,5,2,41,0,5900,4.3,388,324
+King Burger,1,11,91,1,700,4.6,506,921
+Chicken Tenders,2,5,125,0,11500,4.2,294,288
+Chicken Sandwich,2,1,105,1,1100,4.3,294,392
+Onion Rings,3,11,61,0,7800,3.4,158,134
+Onion Rings,3,3,62,0,9600,3.3,169,167
+King Burger,1,12,93,0,11600,4.8,555,768
+Sundae,5,8,40,1,9400,3.2,310,300
+Chicken Sandwich,2,8,99,0,6700,3.8,282,337
+Bacon Deluxe Burger,1,10,158,0,600,4.7,232,254
+Chicken Bucket (6pc),2,10,431,0,5300,3.7,128,111
+King Burger,1,3,90,1,3200,4.6,415,753
+Spaghetti,3,2,65,1,2200,3.4,267,263
+Apple Pie,5,11,43,0,10600,3.8,153,202
+French Fries Regular,3,8,49,1,1200,3.4,542,669
+Apple Pie,5,5,46,0,8500,4.2,165,200
+Soft Serve Cone,5,10,29,1,3100,3.9,547,708
+Bacon Deluxe Burger,1,1,150,0,3000,3.9,212,199
+French Fries Large,3,11,71,1,6700,3.3,387,396
+Spaghetti,3,4,68,0,4200,3.8,265,254
+Double Cheeseburger,1,5,129,0,1000,3.7,356,324
+Onion Rings,3,8,61,1,11400,3.4,138,172
+Mushroom Burger,1,7,122,1,1800,4.1,170,214
+Spaghetti,3,6,68,0,800,4.8,267,298
+Onion Rings,3,7,59,0,4300,4.4,134,179
+Mushroom Burger,1,11,114,0,7400,4.7,337,342
+Iced Coffee,4,12,64,0,10900,3.6,400,418
+Sundae,5,5,41,0,3400,3.9,331,314
+French Fries Large,3,2,71,1,10900,4.4,350,603
+Spaghetti,3,8,68,1,6000,3.8,307,397
+Soft Serve Cone,5,3,31,0,6200,4.5,331,414
+Chicken Tenders,2,10,119,1,3700,4.2,308,349
+Spaghetti,3,5,66,0,9300,4.4,258,304
+King Burger,1,4,85,0,2900,4.8,460,658
+Double Cheeseburger,1,5,137,0,9100,4.4,388,421
+Double Cheeseburger,1,1,136,0,2700,3.4,327,291
+French Fries Large,3,2,69,0,5500,3.6,265,275
+Spaghetti,3,2,69,0,10500,4.5,266,329
+Bacon Deluxe Burger,1,12,145,0,6000,4.6,265,274
+Spaghetti,3,9,63,1,3000,3.5,203,229
+Double Cheeseburger,1,7,136,0,2600,4.7,386,469
+Lemonade,4,3,43,1,11900,4.5,287,393
+Apple Pie,5,9,47,0,2400,3.6,173,130
+Crispy Fried Chicken (1pc),2,2,90,1,400,4.6,574,878
+Onion Rings,3,2,56,0,2600,3.9,183,169
+Cola,4,3,35,0,5300,4.7,727,888
+Spaghetti,3,7,62,1,2400,3.5,225,235
+Iced Coffee,4,7,61,0,300,3.6,272,258
+Halo-Halo,5,1,79,0,7900,4.4,183,254
+French Fries Regular,3,11,49,0,12000,4.7,674,920
+Double Cheeseburger,1,4,125,0,11200,4.5,336,468
+Mushroom Burger,1,6,120,1,4100,4.1,138,226
+French Fries Large,3,1,74,0,3800,4.9,422,443
+French Fries Large,3,3,68,1,6400,3.6,429,465
+Double Cheeseburger,1,10,130,0,3500,3.7,461,370
+Cola,4,6,35,1,4800,3.7,651,759
+Mushroom Burger,1,12,126,0,9700,3.4,187,171
+Onion Rings,3,11,63,0,600,4.1,169,207
+Sundae,5,1,38,1,8300,4.8,286,529
+Cola,4,8,35,0,2800,3.8,616,637
+Lemonade,4,5,43,0,1000,4.2,278,289
+Bacon Deluxe Burger,1,9,143,0,10600,4.1,212,298
+King Burger,1,6,89,1,5200,3.7,635,676
+French Fries Regular,3,7,51,0,2600,3.4,694,511
+Apple Pie,5,3,43,0,5200,3.3,119,135
+Mushroom Burger,1,1,123,1,5300,3.3,183,180
+Chicken Bucket (6pc),2,5,481,0,2100,4.8,149,157
+Crispy Fried Chicken (1pc),2,8,92,0,6100,3.3,550,471
+French Fries Large,3,7,66,1,5600,4.9,347,541
+Spaghetti,3,6,65,0,2500,4.7,203,243
+Cola,4,7,35,1,10200,3.3,600,699
+Iced Tea,4,2,38,0,3600,4.7,427,678
+Halo-Halo,5,6,82,1,3200,3.5,232,260
+Halo-Halo,5,1,77,0,11000,4.3,199,267
+Crispy Fried Chicken (1pc),2,3,97,0,4100,3.3,459,360
+French Fries Large,3,2,67,0,7500,4.4,385,423
+Halo-Halo,5,5,85,0,200,4.4,194,209
+Mushroom Burger,1,11,113,0,7300,4.3,179,223
+French Fries Regular,3,11,50,0,8100,3.4,877,694
+Mushroom Burger,1,4,123,0,10500,3.9,181,183
+Iced Tea,4,2,40,1,2100,4.1,463,634
+Spaghetti,3,11,69,0,6200,4.6,283,378
+Chicken Bucket (6pc),2,6,460,0,200,4.2,137,109
+Cola,4,12,34,0,1800,4.1,825,911
+Lemonade,4,6,43,0,7300,4.2,219,291
+Bacon Deluxe Burger,1,3,152,0,2100,3.3,201,146
+Spaghetti,3,11,66,1,12000,4.4,373,666
+Chicken Tenders,2,12,118,0,5700,3.6,364,327
+Lemonade,4,11,47,0,11700,4.8,230,357
+Onion Rings,3,2,62,0,10200,4.0,173,185
+Sundae,5,5,41,0,10800,4.6,353,456
+Sundae,5,1,41,0,4100,3.7,269,296
+Iced Coffee,4,1,63,1,11400,4.0,265,351
+Chicken Bucket (6pc),2,5,482,1,4100,3.7,102,101
+Iced Coffee,4,6,58,1,10700,3.6,215,358
+Double Cheeseburger,1,10,131,1,3400,4.9,356,558
+French Fries Regular,3,8,47,0,700,4.4,694,867
+French Fries Large,3,12,74,0,4200,4.7,455,492
+Halo-Halo,5,2,76,1,10300,4.2,160,236
+French Fries Large,3,4,70,0,2000,4.2,388,403
+Mushroom Burger,1,1,118,0,2800,4.0,135,163
+Lemonade,4,11,47,0,5400,4.6,276,303
+Chicken Bucket (6pc),2,3,448,0,400,4.9,122,150
+Sundae,5,11,40,0,4600,3.6,409,409
+Cola,4,7,38,0,9800,3.6,615,650
+Chicken Sandwich,2,11,99,0,1700,3.9,302,279
+Onion Rings,3,7,63,1,6600,3.4,148,176
+Sundae,5,10,40,0,8600,3.9,357,329
+Mushroom Burger,1,1,113,0,1300,3.9,217,236
+Soft Serve Cone,5,4,29,1,4500,3.2,418,425
+Sundae,5,3,39,0,4300,4.3,324,333
+Chicken Tenders,2,8,126,0,5900,4.4,228,194
+King Burger,1,3,85,0,11600,4.1,540,719
+Apple Pie,5,9,46,0,5400,3.5,157,130
+Onion Rings,3,8,62,0,1000,4.8,149,195
+Chicken Tenders,2,4,116,0,800,3.8,207,212
+Chicken Sandwich,2,9,97,0,3800,4.7,377,416
+Lemonade,4,6,47,0,9500,4.1,246,267
+King Burger,1,11,92,0,4300,3.8,601,565
+Lemonade,4,11,48,1,4800,4.6,244,345
+Chicken Sandwich,2,6,98,0,10300,4.8,281,403
+Soft Serve Cone,5,6,28,0,5900,4.5,336,354
+French Fries Regular,3,3,51,1,3100,3.5,590,683
+Lemonade,4,5,47,0,300,3.7,248,183
+Cola,4,7,34,1,8800,3.8,700,916
+Bacon Deluxe Burger,1,10,159,0,5100,4.6,257,286
+Apple Pie,5,11,44,1,5800,3.3,136,132
+Bacon Deluxe Burger,1,5,143,0,4200,3.7,215,245
+Spaghetti,3,3,64,0,5700,4.4,362,399
+French Fries Large,3,9,73,0,11600,4.2,272,322
+Bacon Deluxe Burger,1,4,160,0,300,3.4,171,142
+Apple Pie,5,6,48,0,9200,4.8,169,256
+French Fries Regular,3,3,50,0,500,4.4,580,750
+Spaghetti,3,8,65,0,6800,4.7,318,317
+French Fries Large,3,5,70,0,3700,3.4,408,355
+Lemonade,4,8,44,0,10000,3.7,193,204
+Chicken Bucket (6pc),2,7,451,0,11300,4.5,121,180
+Crispy Fried Chicken (1pc),2,6,97,0,2600,3.9,571,525
+Bacon Deluxe Burger,1,1,153,0,3600,3.3,165,132
+Iced Coffee,4,8,61,0,900,3.8,239,216
+Onion Rings,3,8,59,0,6300,4.8,188,190
+Iced Tea,4,12,39,0,7300,4.4,611,799
+Bacon Deluxe Burger,1,6,158,0,10200,4.0,217,167
+Halo-Halo,5,4,76,0,11200,4.6,228,307
+Iced Tea,4,2,41,0,7800,3.6,503,469
+French Fries Large,3,4,67,1,1600,3.3,445,493
+Chicken Tenders,2,11,120,0,11300,3.4,294,265
+Sundae,5,12,38,1,10500,4.0,289,476
+Onion Rings,3,11,56,0,1600,3.5,183,152
+Bacon Deluxe Burger,1,1,148,0,3900,4.5,205,281
+Double Cheeseburger,1,1,133,0,9800,3.8,420,472
+Onion Rings,3,11,63,0,100,4.3,178,203
+Halo-Halo,5,1,83,0,5600,3.2,249,175
+Cola,4,7,33,0,12000,3.8,778,770
+French Fries Regular,3,8,49,0,10300,4.1,557,608
+Double Cheeseburger,1,10,138,1,7800,3.8,396,484
+Bacon Deluxe Burger,1,2,149,1,1700,4.9,198,319
+Iced Coffee,4,8,57,0,5500,3.8,215,238
+Cola,4,7,37,0,6600,4.9,897,1018
+Chicken Bucket (6pc),2,2,482,0,3900,3.6,128,134
+Mushroom Burger,1,12,123,1,7400,4.4,211,281
+King Burger,1,12,89,1,3300,4.9,760,948
+Iced Coffee,4,9,63,1,10500,4.7,305,489
+Halo-Halo,5,11,78,0,4100,4.8,202,247
+Double Cheeseburger,1,10,137,0,5100,4.2,346,368
+Chicken Tenders,2,1,116,0,300,3.4,200,184
+Chicken Bucket (6pc),2,4,463,0,10300,4.1,140,144
+Sundae,5,2,41,0,2100,3.8,330,275
+Double Cheeseburger,1,4,138,0,7400,3.5,400,287
+Crispy Fried Chicken (1pc),2,3,94,0,8500,3.6,687,700
+Double Cheeseburger,1,6,135,0,8400,3.3,359,305
+Onion Rings,3,11,57,1,9000,4.3,193,299
+Onion Rings,3,3,60,0,7300,4.5,183,232
+Double Cheeseburger,1,1,133,0,1000,3.4,360,347
+Chicken Sandwich,2,8,97,1,0,4.6,295,491
+Chicken Sandwich,2,1,97,1,7700,3.4,357,437
+French Fries Regular,3,4,49,1,7400,3.7,895,916
+Sundae,5,10,38,1,8100,4.5,381,580
+Iced Tea,4,11,38,1,7200,3.6,681,824
+Chicken Bucket (6pc),2,7,434,0,9200,4.1,148,137
+French Fries Regular,3,5,49,1,3700,4.5,537,891
+Iced Tea,4,4,39,1,8400,3.4,833,826
+Apple Pie,5,12,46,0,3300,3.4,187,164
+French Fries Large,3,7,71,1,6900,3.9,306,525
+Chicken Tenders,2,7,124,0,4200,4.4,198,232
+Double Cheeseburger,1,8,133,0,2800,3.4,357,281
+Sundae,5,12,39,0,400,4.0,413,419
+Halo-Halo,5,7,77,0,9000,3.9,225,245
+Chicken Bucket (6pc),2,12,457,0,7300,4.3,188,219
+Chicken Sandwich,2,1,96,1,3800,3.4,270,283
+Soft Serve Cone,5,3,28,0,2500,4.7,297,466
+King Burger,1,1,92,0,4200,4.8,489,533
+Chicken Bucket (6pc),2,9,454,0,6100,4.7,138,171
+Soft Serve Cone,5,3,29,1,8400,4.8,438,759
+Chicken Tenders,2,3,117,1,2400,3.8,230,268
+Bacon Deluxe Burger,1,6,158,0,7200,4.9,260,271
+French Fries Regular,3,6,50,0,4200,4.6,746,861
+Soft Serve Cone,5,10,31,1,4700,3.7,518,531
+Crispy Fried Chicken (1pc),2,6,100,1,200,3.5,575,685
+Bacon Deluxe Burger,1,5,144,0,2000,3.9,252,267
+Mushroom Burger,1,4,113,0,9700,4.2,212,265
+Sundae,5,3,41,0,4700,3.7,309,267
+Chicken Tenders,2,5,116,0,0,3.9,269,270
+Halo-Halo,5,2,77,1,1800,3.7,166,203
+Lemonade,4,9,48,1,2200,4.1,235,294
+Bacon Deluxe Burger,1,10,154,1,7400,4.2,226,293
+Double Cheeseburger,1,11,138,0,200,4.3,403,437
+Chicken Bucket (6pc),2,10,457,0,900,3.5,90,86
+Cola,4,4,35,0,1800,4.8,637,810
+French Fries Regular,3,2,50,1,9200,4.3,570,1100
+Lemonade,4,6,43,0,11700,4.8,227,350
+Mushroom Burger,1,3,116,0,6400,3.3,143,139
+Double Cheeseburger,1,2,138,0,6900,4.1,327,390
+French Fries Regular,3,11,51,1,1900,4.2,560,717
+Onion Rings,3,1,62,0,6000,4.3,226,211
+Halo-Halo,5,1,81,0,7100,4.2,167,204
+Chicken Sandwich,2,7,101,0,11400,3.7,270,297
+Double Cheeseburger,1,7,125,0,9400,4.6,394,452
+Chicken Tenders,2,9,115,1,3200,3.8,338,366
+Chicken Sandwich,2,5,98,0,9500,4.7,280,335
+Double Cheeseburger,1,2,138,1,1800,3.9,424,483
+Halo-Halo,5,11,83,0,200,4.6,207,226
+Chicken Sandwich,2,5,99,0,5900,3.9,315,295
+Onion Rings,3,3,62,0,3500,4.1,205,209
+Lemonade,4,10,45,0,1300,3.3,280,226
+Bacon Deluxe Burger,1,4,145,0,1100,3.4,177,158
+Onion Rings,3,4,60,0,8100,3.7,195,163
+French Fries Large,3,2,73,0,1100,3.6,302,297
+French Fries Regular,3,9,47,0,700,4.0,627,683
+Bacon Deluxe Burger,1,1,149,0,1000,4.4,213,286
+Soft Serve Cone,5,3,30,1,10300,3.6,384,524
+Iced Tea,4,9,41,0,400,3.5,653,515
+Halo-Halo,5,7,77,1,10800,3.4,190,226
+Double Cheeseburger,1,8,129,0,7700,4.5,370,390
+Crispy Fried Chicken (1pc),2,6,101,0,600,4.4,562,677
+Lemonade,4,6,45,1,7000,4.0,225,291
+Onion Rings,3,11,57,0,6300,4.1,272,242
+King Burger,1,3,90,0,2200,4.4,577,637
+Sundae,5,4,40,0,2000,4.7,429,522
+Cola,4,5,36,0,8000,4.8,601,929
+Iced Tea,4,12,38,0,7100,4.6,1018,1216
+Iced Coffee,4,10,60,0,1800,4.7,247,341
+French Fries Regular,3,7,47,1,8200,4.7,741,1135
+Crispy Fried Chicken (1pc),2,1,102,0,3600,3.4,580,527
+Apple Pie,5,7,44,0,5100,4.1,124,135
+Spaghetti,3,2,64,1,3000,4.4,289,410
+Sundae,5,12,41,0,800,3.3,568,398
+French Fries Regular,3,8,53,0,7900,3.3,731,638
+Iced Tea,4,4,38,0,7600,4.8,691,739
+Chicken Tenders,2,12,120,1,10600,4.2,231,388
+Iced Tea,4,7,40,0,1800,4.8,414,469
+Chicken Sandwich,2,1,102,0,8500,3.7,311,357
+Sundae,5,5,42,0,10600,3.4,385,313
+Chicken Sandwich,2,9,98,0,3100,4.6,281,313
+Lemonade,4,11,47,0,1800,4.7,292,304
+Spaghetti,3,12,64,1,3700,4.9,447,662
+King Burger,1,3,87,0,5300,4.5,468,592
+French Fries Large,3,11,66,0,3300,4.8,307,433
+Double Cheeseburger,1,8,129,0,10500,4.5,402,478
+Crispy Fried Chicken (1pc),2,6,91,1,8700,3.6,660,795
+Iced Coffee,4,2,61,0,9800,3.4,241,229
+Sundae,5,3,37,1,10400,4.6,293,479
+Iced Tea,4,6,41,1,8200,3.9,493,685
+Spaghetti,3,12,70,0,8700,4.2,337,376
+French Fries Large,3,8,74,0,7000,4.0,332,317
+Cola,4,11,35,1,10900,3.6,949,1014
+Iced Coffee,4,3,60,0,11600,4.7,226,384
+Iced Coffee,4,10,62,1,2700,3.4,300,308
+Double Cheeseburger,1,1,131,1,1900,3.8,261,367
+Chicken Tenders,2,11,124,0,2300,3.5,393,327
+Onion Rings,3,3,57,0,10400,4.9,178,215
+Halo-Halo,5,7,82,0,100,4.2,209,242
+French Fries Large,3,1,66,0,7400,3.3,293,258
+Soft Serve Cone,5,5,29,0,8900,4.2,336,422
+King Burger,1,6,91,0,9200,3.5,423,421
+Onion Rings,3,11,62,0,3200,4.6,221,274
+Bacon Deluxe Burger,1,11,151,0,6400,3.9,287,258
+Iced Tea,4,12,42,0,10400,4.8,748,903
+Lemonade,4,8,48,0,0,3.9,274,176
+Cola,4,3,36,1,200,3.6,556,565
+Chicken Bucket (6pc),2,5,431,0,1900,4.7,132,156
+Sundae,5,9,42,1,8600,3.7,353,390
+Bacon Deluxe Burger,1,6,150,0,7000,3.5,217,179
+Iced Tea,4,3,37,1,7900,4.4,557,886
+Lemonade,4,8,46,0,800,4.5,207,245
+Spaghetti,3,11,63,1,4800,4.8,326,482
+Halo-Halo,5,6,83,1,7900,4.4,167,268
+French Fries Regular,3,2,48,0,1900,4.3,608,699
+Iced Coffee,4,9,57,0,8100,3.7,252,309
+Soft Serve Cone,5,9,29,1,6500,3.6,520,524
+French Fries Large,3,5,66,1,11900,4.4,423,606
+Double Cheeseburger,1,1,124,0,2800,4.5,319,412
+Spaghetti,3,9,68,0,9000,3.4,293,282
+Chicken Tenders,2,5,128,0,3600,4.9,268,291
+Sundae,5,5,38,0,5000,3.4,413,360
+Crispy Fried Chicken (1pc),2,3,98,1,4200,4.3,559,801
+French Fries Regular,3,9,51,1,10400,3.7,555,686
+Apple Pie,5,8,43,1,11200,4.8,127,248
+Chicken Tenders,2,12,113,0,3800,3.7,320,311
+Chicken Sandwich,2,9,105,0,6600,4.1,459,352
+Halo-Halo,5,3,77,0,11500,4.6,261,329
+Sundae,5,3,41,1,9400,4.3,305,463
+Bacon Deluxe Burger,1,11,160,1,1000,3.4,235,201
+Mushroom Burger,1,10,117,1,6600,3.7,171,250
+Bacon Deluxe Burger,1,7,153,0,6400,4.5,140,160
+Double Cheeseburger,1,2,129,0,5900,4.8,379,466
+Chicken Bucket (6pc),2,12,475,0,4100,3.9,139,139
+Soft Serve Cone,5,7,28,0,10700,3.6,335,367
+King Burger,1,5,85,0,6300,4.0,596,610
+French Fries Large,3,3,70,1,8400,4.7,348,526
+Mushroom Burger,1,12,116,0,9600,4.5,210,308
+Chicken Tenders,2,8,124,0,7900,4.3,237,320
+Iced Tea,4,1,41,0,2300,3.7,620,525
+Halo-Halo,5,12,81,1,3200,4.6,212,408
+Soft Serve Cone,5,10,31,1,8800,4.8,476,848
+Double Cheeseburger,1,2,133,0,9500,4.7,325,431
+Lemonade,4,9,48,0,400,3.5,229,218
+Apple Pie,5,5,47,0,10200,3.3,127,132
+Double Cheeseburger,1,7,128,0,10500,4.1,316,462
+Chicken Bucket (6pc),2,7,444,1,5600,4.4,108,161
+Spaghetti,3,3,68,0,11900,3.9,301,316
+Double Cheeseburger,1,7,138,1,11900,4.0,339,491
+Crispy Fried Chicken (1pc),2,3,99,0,6700,4.2,523,584
+King Burger,1,11,93,0,1000,4.4,888,703
+Sundae,5,12,42,0,8200,4.8,405,523
+Double Cheeseburger,1,11,126,0,7400,3.8,508,511
+Sundae,5,11,39,0,7100,4.4,438,545
+Chicken Sandwich,2,8,107,0,4300,4.8,287,304
+Halo-Halo,5,11,80,1,3000,4.6,189,286
+Iced Coffee,4,3,59,0,8200,3.7,313,300
+Spaghetti,3,12,64,0,10400,3.6,390,366
+Spaghetti,3,12,65,0,8800,3.2,254,310
+Spaghetti,3,9,63,0,11000,4.6,257,362
+Sundae,5,7,38,0,7200,3.7,382,357
+Spaghetti,3,4,63,0,1900,3.3,311,274
+Bacon Deluxe Burger,1,9,151,1,11400,3.3,246,254
+Sundae,5,11,38,0,4000,4.0,355,427
+Crispy Fried Chicken (1pc),2,9,99,0,4200,4.5,543,695
+Crispy Fried Chicken (1pc),2,2,97,0,11300,4.8,668,933
+Onion Rings,3,2,62,1,11100,3.9,152,207
+Sundae,5,1,38,1,7500,3.6,299,416
+Double Cheeseburger,1,8,134,0,10800,3.6,289,310
+King Burger,1,4,86,0,7800,4.2,467,597
+Apple Pie,5,1,46,0,7400,3.3,146,109
+Chicken Bucket (6pc),2,3,432,0,7900,4.1,109,154
+Bacon Deluxe Burger,1,4,143,0,3300,4.7,235,303
+Lemonade,4,10,48,0,8900,3.4,202,190
+Chicken Sandwich,2,10,99,0,4600,4.1,269,271
+Iced Coffee,4,6,60,1,3900,3.6,257,270
+Sundae,5,10,40,1,8000,3.8,334,530
+Apple Pie,5,6,44,0,6300,3.3,150,132
+Sundae,5,8,41,0,2100,3.7,384,314
+Lemonade,4,11,45,1,5500,4.8,272,410
+Chicken Tenders,2,8,123,1,11300,3.7,193,255
+Sundae,5,2,38,0,8000,4.6,243,385
+Chicken Bucket (6pc),2,10,463,0,4000,3.9,154,154
+Halo-Halo,5,12,77,0,10700,4.5,273,376
+King Burger,1,11,91,0,500,3.4,434,395
+Cola,4,9,36,0,11500,4.3,783,873
+Chicken Bucket (6pc),2,6,435,0,10900,4.2,107,133
+Cola,4,11,35,0,8700,3.9,555,569
+Chicken Tenders,2,3,125,0,10300,4.2,239,242
+Soft Serve Cone,5,8,29,0,11800,4.2,421,491
+Sundae,5,5,42,0,5300,4.5,226,285
+Chicken Tenders,2,7,127,0,500,4.2,198,233
+Mushroom Burger,1,12,126,1,11500,4.7,197,340
+Bacon Deluxe Burger,1,8,161,0,11300,4.8,176,216
+Chicken Bucket (6pc),2,4,437,1,8000,4.2,116,185
+Spaghetti,3,10,64,0,8600,3.5,237,224
+Iced Tea,4,12,40,1,12000,4.2,744,1197
+French Fries Regular,3,9,49,1,11000,4.2,681,960
+Apple Pie,5,5,48,0,5700,4.2,171,173
+Chicken Tenders,2,7,123,0,5900,4.6,234,301
+Chicken Tenders,2,3,126,0,9800,4.1,259,264
+King Burger,1,8,90,0,5000,4.9,536,583
+Bacon Deluxe Burger,1,5,145,0,8200,3.3,208,179
+Chicken Tenders,2,9,118,1,12000,3.8,283,375
+Lemonade,4,10,47,0,5600,3.3,239,196
+Sundae,5,10,40,0,1200,3.4,276,227
+Onion Rings,3,6,59,0,2500,3.3,173,160
+Chicken Tenders,2,5,117,0,500,4.8,215,289
+Onion Rings,3,3,57,1,3500,4.2,203,317
+Halo-Halo,5,7,79,0,5600,3.3,246,211
+King Burger,1,9,95,0,11200,3.3,526,468
+Halo-Halo,5,3,82,0,9400,3.9,218,196
+Lemonade,4,3,43,1,5500,4.7,270,416
+Chicken Sandwich,2,12,107,0,10600,3.5,347,318
+Soft Serve Cone,5,2,30,0,9500,4.2,399,407
+Chicken Tenders,2,12,115,0,6900,4.5,245,333
+Bacon Deluxe Burger,1,8,152,0,1400,3.3,225,168
+Halo-Halo,5,6,77,1,5600,4.0,132,219
+Bacon Deluxe Burger,1,12,147,0,10600,3.6,297,296
+Sundae,5,11,40,0,3800,4.4,463,467
+Iced Coffee,4,4,56,0,11000,4.5,220,318
+Halo-Halo,5,3,77,0,3600,4.3,224,242
+Crispy Fried Chicken (1pc),2,4,93,0,5100,3.3,772,667
+Bacon Deluxe Burger,1,12,148,0,8900,4.3,345,312
+Apple Pie,5,12,47,0,6000,4.2,199,229
+Spaghetti,3,4,66,0,11900,4.1,288,336
+Halo-Halo,5,9,77,0,9000,3.8,245,258
+Chicken Sandwich,2,8,104,1,4800,3.8,297,335
+King Burger,1,7,92,1,900,4.1,460,600
+Mushroom Burger,1,5,114,0,2700,4.4,170,204
+Crispy Fried Chicken (1pc),2,6,99,1,600,3.7,615,788
+French Fries Regular,3,2,48,1,7700,3.6,652,767
+Onion Rings,3,10,58,0,6200,3.5,209,223
+French Fries Large,3,8,66,0,300,4.9,355,429
+French Fries Large,3,7,70,0,700,3.6,401,330
+French Fries Large,3,1,71,0,10200,3.8,345,328
+Chicken Tenders,2,11,115,0,1100,4.0,267,238
+Sundae,5,7,39,1,9700,3.8,250,409
+Sundae,5,1,41,0,3000,3.3,290,213
+Crispy Fried Chicken (1pc),2,2,101,0,7000,3.9,517,504
+Iced Tea,4,10,40,1,4400,4.0,540,776
+King Burger,1,10,91,0,11000,4.1,566,705
+Chicken Sandwich,2,6,106,1,10300,4.5,302,447
+Soft Serve Cone,5,2,31,1,4500,4.6,328,542
+Crispy Fried Chicken (1pc),2,11,100,0,8000,4.7,595,799
+Halo-Halo,5,5,75,1,11100,3.9,210,337
+French Fries Regular,3,7,51,0,3900,4.5,521,652
+Chicken Tenders,2,8,127,0,8200,3.4,228,215
+Crispy Fried Chicken (1pc),2,12,98,1,5000,4.0,722,904
+Iced Tea,4,11,40,0,9900,3.9,658,768
+Crispy Fried Chicken (1pc),2,11,98,0,7200,3.7,781,743
+Cola,4,12,35,0,5300,3.4,709,682
+Onion Rings,3,9,59,1,6400,4.5,297,360
+Bacon Deluxe Burger,1,11,147,0,1800,4.2,215,217
+Chicken Tenders,2,9,114,1,3600,3.8,262,341
+Onion Rings,3,10,63,0,5500,3.6,163,188
+King Burger,1,2,94,0,12000,4.2,449,522
+Sundae,5,10,41,1,4500,3.9,530,564
+Spaghetti,3,7,66,0,7200,3.3,238,201
+French Fries Large,3,9,66,0,2500,4.7,311,386
+Bacon Deluxe Burger,1,10,151,0,9800,4.0,254,245
+Spaghetti,3,8,63,0,6500,3.5,268,268
+Mushroom Burger,1,9,122,0,6300,4.8,210,255
+Crispy Fried Chicken (1pc),2,6,91,0,5100,4.1,518,638
+French Fries Large,3,4,67,1,3500,4.0,410,509
+French Fries Regular,3,10,49,1,11500,3.7,586,815
+King Burger,1,10,89,0,1300,3.7,479,474
+Lemonade,4,9,44,0,9300,4.0,226,251
+Cola,4,6,34,0,7500,4.2,640,664
+Double Cheeseburger,1,6,137,0,2500,3.9,526,473
+Apple Pie,5,2,47,0,9300,4.2,152,186
+Crispy Fried Chicken (1pc),2,5,92,0,9600,3.9,470,599
+French Fries Large,3,7,66,0,9000,4.3,358,503
+Bacon Deluxe Burger,1,2,143,0,4100,3.6,226,237
+Bacon Deluxe Burger,1,12,145,0,900,3.7,254,249
+Cola,4,4,36,0,9500,4.8,619,951
+Onion Rings,3,10,60,0,1300,3.3,153,150
+Double Cheeseburger,1,5,134,0,8700,3.5,329,317
+French Fries Large,3,9,74,0,10400,4.4,316,392
+Iced Tea,4,1,40,0,8100,4.2,516,556
+Chicken Sandwich,2,9,105,0,10500,3.9,288,288
+French Fries Regular,3,2,50,0,4100,3.3,521,505
+Iced Tea,4,3,38,1,1000,4.6,635,862
+Bacon Deluxe Burger,1,8,155,1,3400,3.7,218,224
+Sundae,5,6,40,1,5500,4.2,360,512
+French Fries Regular,3,7,52,0,6600,4.1,550,598
+Mushroom Burger,1,5,113,1,7600,3.7,162,255
+Iced Coffee,4,11,59,0,10800,4.7,214,334
+Cola,4,5,37,0,2900,4.7,508,779
+Mushroom Burger,1,9,124,1,5800,3.5,186,203
+Apple Pie,5,10,46,0,10500,3.9,190,185
+Chicken Sandwich,2,4,98,1,6700,4.5,386,510
+Halo-Halo,5,2,79,0,11500,3.9,177,215
+French Fries Large,3,9,66,0,9200,3.7,384,376
+Spaghetti,3,2,62,0,8200,4.4,275,330
+Bacon Deluxe Burger,1,6,157,0,1900,4.0,186,172
+Lemonade,4,10,46,1,3700,3.4,323,299
+King Burger,1,3,93,0,5900,3.5,478,380
+French Fries Regular,3,1,47,0,7800,4.4,737,816
+Halo-Halo,5,2,75,0,3900,3.6,226,188
+French Fries Regular,3,11,51,0,7500,4.8,619,853
+King Burger,1,3,93,0,3400,3.7,398,414
+Double Cheeseburger,1,6,138,0,6700,3.3,484,393
+Spaghetti,3,1,70,0,5000,4.4,196,251
+Iced Coffee,4,12,64,0,10900,4.7,319,454
+Lemonade,4,8,48,0,1500,3.6,242,185
+French Fries Large,3,2,67,0,11600,4.3,317,404
+Apple Pie,5,12,48,0,11000,4.5,189,178
+Chicken Bucket (6pc),2,5,465,0,8600,4.3,117,118
+French Fries Regular,3,1,47,1,8700,3.7,710,897
+Mushroom Burger,1,4,125,0,6000,4.0,158,144
+Sundae,5,4,38,1,11100,3.5,295,420
+Mushroom Burger,1,11,117,1,8700,4.2,171,268
+Chicken Sandwich,2,5,97,1,10500,4.2,257,431
+Crispy Fried Chicken (1pc),2,4,95,0,800,4.4,645,699
+Double Cheeseburger,1,4,133,0,10900,3.8,302,394
+King Burger,1,1,91,0,2500,4.4,393,438
+Soft Serve Cone,5,5,30,0,1000,3.7,398,387
+Chicken Tenders,2,10,126,1,9500,4.0,237,376
+Cola,4,8,33,0,1500,4.8,664,964
+Chicken Tenders,2,5,125,0,8900,4.6,287,345
+Sundae,5,2,41,0,700,3.4,292,222
+King Burger,1,9,90,0,2200,3.9,421,428
+Iced Coffee,4,10,61,0,11200,4.4,216,272
+Cola,4,5,34,0,12000,4.1,767,856
+Spaghetti,3,4,68,0,11500,4.4,357,427
+King Burger,1,1,88,0,7300,4.5,580,609
+Chicken Sandwich,2,2,97,1,7000,3.6,227,345
+Iced Coffee,4,10,62,0,5200,4.1,271,280
+Lemonade,4,4,44,0,1600,4.2,232,259
+French Fries Regular,3,2,47,0,3300,3.6,461,472
+Crispy Fried Chicken (1pc),2,7,94,0,3400,4.5,701,786
+Lemonade,4,3,45,0,3600,3.4,245,270
+Chicken Tenders,2,6,119,1,400,4.0,266,384
+Mushroom Burger,1,5,119,1,9800,3.6,174,205
+Iced Tea,4,2,39,0,6100,4.0,544,546
+French Fries Large,3,2,74,0,2800,3.7,333,274
+Iced Coffee,4,8,60,0,6800,3.8,292,248
+Iced Coffee,4,11,60,0,8000,3.6,323,278
+Chicken Bucket (6pc),2,12,437,1,4100,4.1,136,211
+Chicken Sandwich,2,2,101,0,4400,3.8,248,250
+Cola,4,3,37,0,1300,4.8,694,793
+Crispy Fried Chicken (1pc),2,9,99,0,2400,3.4,527,449
+Lemonade,4,4,48,0,11200,3.3,182,164
+Sundae,5,4,41,1,7100,4.7,379,526
+Apple Pie,5,2,45,0,1800,4.2,148,175
+Lemonade,4,4,47,0,100,3.4,242,190
+Onion Rings,3,7,59,1,5900,3.9,154,194
+Spaghetti,3,10,62,1,1100,4.0,334,386
+Crispy Fried Chicken (1pc),2,5,91,0,5400,3.3,504,520
+Sundae,5,4,39,0,7800,4.9,333,433
+Chicken Bucket (6pc),2,5,435,0,5800,3.8,163,121
+Mushroom Burger,1,5,120,1,10900,3.7,159,213
+Sundae,5,5,42,0,8000,4.0,306,313
+Mushroom Burger,1,9,118,0,3400,4.4,166,172
+Onion Rings,3,2,61,0,10800,3.3,183,152
+Chicken Tenders,2,6,122,0,1900,4.6,214,272
+Chicken Bucket (6pc),2,1,435,0,7500,4.7,73,102
+Spaghetti,3,3,69,0,7200,4.9,328,375
+Chicken Bucket (6pc),2,7,480,0,8600,4.2,112,105
+Spaghetti,3,1,69,0,9200,4.1,205,283
+French Fries Large,3,11,67,0,8900,4.6,310,467
+Onion Rings,3,1,62,0,10900,3.6,218,167
+Spaghetti,3,11,66,0,7500,3.3,228,214
+Iced Tea,4,7,40,0,5600,4.0,566,717
+Bacon Deluxe Burger,1,9,142,0,9500,4.2,212,234
+Double Cheeseburger,1,10,136,1,1700,4.2,347,450
+Soft Serve Cone,5,8,30,1,5700,3.5,398,453
+Double Cheeseburger,1,7,124,0,11300,4.8,368,580
+Chicken Bucket (6pc),2,12,434,0,5500,4.9,142,176
+French Fries Regular,3,7,51,1,3100,3.7,695,772
+French Fries Large,3,2,72,0,8100,4.6,292,369
+French Fries Large,3,12,70,0,4600,3.7,391,460
+Chicken Tenders,2,10,116,0,5100,4.0,231,258
+Crispy Fried Chicken (1pc),2,12,94,0,3000,3.4,978,822
+Lemonade,4,9,46,1,11000,4.5,234,354
+Lemonade,4,1,46,0,6900,4.7,337,427
+Chicken Bucket (6pc),2,3,456,1,9800,4.9,109,206
+Spaghetti,3,8,69,1,0,4.6,249,364
+Chicken Sandwich,2,1,94,1,5800,3.3,308,333
+Bacon Deluxe Burger,1,9,152,0,10300,4.0,193,258
+Apple Pie,5,1,47,1,8200,4.1,151,196
+Cola,4,1,34,0,9500,4.5,690,739
+Soft Serve Cone,5,12,31,0,3000,4.2,507,461
+French Fries Large,3,9,72,0,700,3.6,395,297
+Mushroom Burger,1,9,126,0,11000,4.1,194,231
+French Fries Regular,3,12,47,0,600,3.5,747,683
+Onion Rings,3,1,57,0,10100,3.8,207,226
+King Burger,1,2,93,0,400,3.6,550,501
+Apple Pie,5,4,43,0,11300,4.0,146,154
+King Burger,1,3,95,0,11100,3.6,526,555
+King Burger,1,3,85,0,10200,4.8,344,508
+Chicken Tenders,2,7,119,0,1600,3.3,270,195
+French Fries Large,3,6,67,0,2500,4.1,409,407
+Iced Coffee,4,12,63,0,2700,3.8,233,215
+Bacon Deluxe Burger,1,1,144,1,1000,4.5,199,256
+Chicken Sandwich,2,4,99,0,6000,3.7,350,340
+Iced Tea,4,5,39,1,5900,4.7,569,982
+Chicken Tenders,2,4,125,0,10300,4.6,252,323
+Chicken Tenders,2,3,115,0,6300,3.6,246,278
+Apple Pie,5,2,44,0,1200,3.5,144,151
+Lemonade,4,1,47,1,9800,3.8,239,276
+Halo-Halo,5,5,83,0,2700,4.5,164,245
+Iced Coffee,4,5,57,0,8700,4.5,282,380
+Apple Pie,5,3,46,0,9800,4.0,222,217
+King Burger,1,2,94,0,8700,3.3,430,398
+Iced Tea,4,10,40,0,3600,3.2,561,450
+Chicken Sandwich,2,8,105,0,5100,4.3,262,292
+Sundae,5,9,38,1,3700,4.4,313,499
+Mushroom Burger,1,3,128,0,7900,3.5,206,215
+Apple Pie,5,12,48,0,6300,4.7,173,232
+French Fries Regular,3,12,52,1,1900,4.3,606,923
+Lemonade,4,2,45,1,10600,4.3,206,265
+Crispy Fried Chicken (1pc),2,1,98,0,500,4.8,515,707
+Lemonade,4,2,49,0,4000,3.7,220,200
+Lemonade,4,8,48,0,3200,3.3,231,172
+Iced Tea,4,5,39,0,1100,4.2,784,727
+Spaghetti,3,11,69,0,3400,4.4,246,259
+Crispy Fried Chicken (1pc),2,3,93,1,8700,4.2,435,772
+French Fries Regular,3,10,51,0,7100,4.1,663,677
+Iced Tea,4,12,41,0,4900,3.5,824,710
+Halo-Halo,5,5,81,0,2300,4.3,213,226
+Iced Coffee,4,9,59,0,8300,4.6,273,326
+Crispy Fried Chicken (1pc),2,12,91,0,11200,4.2,894,1111
+Cola,4,5,34,0,1600,3.8,735,708
+Double Cheeseburger,1,10,138,0,1600,3.3,366,303
+Chicken Tenders,2,11,119,0,4500,4.5,238,345
+Bacon Deluxe Burger,1,5,143,0,4000,4.7,287,303
+Crispy Fried Chicken (1pc),2,9,90,0,4700,3.9,541,603
+King Burger,1,4,96,0,3000,4.8,485,645
+Soft Serve Cone,5,10,29,0,3100,4.8,365,456
+Cola,4,2,35,0,100,3.8,636,522
+Sundae,5,6,42,1,10200,3.4,412,355
+King Burger,1,3,88,0,0,3.7,430,435
+Lemonade,4,4,46,1,4700,3.9,238,376
+Sundae,5,6,40,1,6900,4.4,249,391
+Halo-Halo,5,4,80,0,2900,4.4,194,226
+Mushroom Burger,1,7,124,0,3200,3.5,136,127

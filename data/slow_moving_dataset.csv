@@ -1,0 +1,1301 @@
+product_name,category_code,unit_price,stock_on_hand,days_since_last_sale,avg_daily_units_30d,shelf_life_days,is_promo,margin_pct,velocity_next_14d
+Burger Steak Rice,3,95,45,0,12.5,2,0,55.7,18.24
+Crispy Chicken 1pc,2,88,19,0,5.97,2,1,52.3,6.27
+French Fries Regular,4,53,225,0,26.42,5,0,73.6,19.26
+Hot Coffee,5,47,25,1,2.5,60,1,78.9,3.48
+Cheese Burger,1,82,74,0,25.06,3,1,60.0,24.98
+Buffalo Wings 6pc,2,159,0,1,4.9,2,1,54.9,8.69
+Bacon Deluxe,1,144,46,0,7.29,3,0,52.6,4.49
+Crispy Chicken 1pc,2,101,59,0,9.54,2,0,58.4,15.49
+Chocolate Sundae,6,47,70,0,9.16,14,0,66.1,7.94
+Burger Steak Rice,3,100,23,0,2.97,2,1,58.0,5.3
+Buffalo Wings 6pc,2,163,37,0,4.56,2,1,56.0,6.38
+Spicy Jalapeno Burger,1,116,19,0,3.2,3,0,55.1,2.53
+Chicken Tenders 6pc,2,166,9,0,6.74,2,0,60.3,6.41
+Crispy Chicken 2pc,2,181,13,0,9.51,2,0,55.7,8.54
+Crispy Chicken 2pc,2,179,44,0,6.11,2,0,55.2,4.96
+Iced Tea Large,5,54,37,0,2.96,30,0,79.5,3.57
+Mozzarella Sticks,4,73,13,0,4.7,5,0,58.7,4.51
+Hi-King Burger,1,99,51,0,7.3,3,0,61.7,4.92
+Buffalo Wings 6pc,2,177,8,1,2.4,2,0,59.4,3.42
+Cheese Burger,1,86,18,0,7.88,3,1,61.8,12.68
+Hot Coffee,5,46,20,0,1.77,60,0,78.2,1.48
+Mashed Potato,4,44,6,0,2.37,3,1,65.8,2.1
+Crispy Chicken 1pc,2,94,95,0,14.94,2,0,55.5,12.67
+Cola Regular,5,42,79,0,32.79,60,0,78.7,27.17
+Hot Coffee,5,47,6,0,4.27,60,0,78.6,4.0
+Crispy Chicken 2pc,2,179,1,0,4.14,2,1,55.3,6.85
+Mushroom Swiss,1,141,40,0,5.15,3,0,58.9,4.36
+Crispy Chicken 1pc,2,105,37,0,9.16,2,0,60.0,9.35
+Chicken Tenders 6pc,2,137,26,0,3.18,2,0,51.9,3.56
+Onion Rings,4,55,14,0,1.13,4,0,67.4,1.57
+Burger Steak Rice,3,93,27,0,4.57,2,0,54.8,3.84
+Pork Tonkatsu Rice,3,136,15,0,4.15,2,1,58.9,3.08
+Chocolate Sundae,6,46,89,0,13.79,14,0,65.4,11.79
+Coleslaw,4,40,0,0,3.23,3,0,70.4,2.37
+Mushroom Swiss,1,141,7,0,3.15,3,0,58.9,2.01
+Mushroom Swiss,1,131,26,0,4.28,3,0,55.8,4.15
+Chicken Adobo Rice,3,102,35,0,5.74,2,1,55.0,6.48
+Apple Pie,6,44,4,0,1.62,7,1,65.6,1.95
+Bacon Deluxe,1,143,0,0,2.47,3,0,52.4,3.06
+Buffalo Wings 6pc,2,151,33,0,7.39,2,0,52.3,4.91
+Onion Rings,4,66,8,0,1.17,4,0,72.7,0.76
+Spicy Jalapeno Burger,1,127,20,0,6.56,3,0,59.1,5.4
+Bacon Deluxe,1,140,25,0,2.86,3,0,51.5,2.48
+Sisig Rice Bowl,3,123,64,0,7.24,2,1,59.2,7.87
+French Fries Large,4,77,178,0,20.46,5,0,74.1,17.35
+Mozzarella Sticks,4,80,37,0,6.56,5,1,62.5,7.51
+Spicy Jalapeno Burger,1,126,28,0,3.47,3,0,58.6,3.53
+Pork Tonkatsu Rice,3,138,3,1,1.52,2,0,59.4,1.71
+Iced Tea Regular,5,38,189,0,30.71,30,0,79.0,25.21
+Cola Regular,5,38,68,0,10.15,60,1,76.0,8.19
+Bacon Deluxe,1,147,35,0,10.61,3,1,53.8,14.42
+Cola Regular,5,39,1,0,6.68,60,0,76.7,5.87
+Mashed Potato,4,46,8,1,2.0,3,1,67.2,2.4
+Crispy Chicken 2pc,2,188,25,0,1.87,2,0,57.4,1.9
+Iced Tea Regular,5,42,5,0,6.12,30,1,80.8,7.89
+Chicken Tenders 6pc,2,140,22,0,2.44,2,0,53.0,1.85
+Pork Tonkatsu Rice,3,132,13,0,1.32,2,0,57.6,1.31
+Hi-King Burger,1,84,60,0,12.29,3,0,54.8,12.51
+Chicken Adobo Rice,3,120,15,0,3.22,2,0,61.6,2.85
+Crispy Chicken 1pc,2,88,235,0,24.3,2,0,52.5,16.46
+Buffalo Wings 6pc,2,162,24,0,3.3,2,0,55.5,2.39
+Mushroom Swiss,1,136,17,0,1.15,3,0,57.3,1.12
+Bacon Deluxe,1,146,0,0,8.49,3,1,53.5,7.33
+Mozzarella Sticks,4,81,41,0,6.04,5,0,63.1,5.21
+Buffalo Wings 6pc,2,161,17,0,5.31,2,1,55.2,5.87
+French Fries Large,4,69,21,0,5.28,5,0,71.2,5.07
+French Fries Regular,4,54,93,0,18.77,5,0,74.3,11.36
+Cheese Burger,1,88,20,0,5.56,3,0,62.7,4.18
+Chicken Sandwich,2,103,46,0,7.61,3,1,57.3,12.03
+Bottled Water,5,26,27,0,4.3,180,0,73.2,3.51
+Apple Pie,6,42,11,0,2.9,7,0,64.2,3.21
+Buffalo Wings 6pc,2,174,58,0,6.84,2,0,58.6,6.97
+Iced Tea Large,5,55,17,0,5.84,30,1,80.0,9.97
+Hi-King Burger,1,82,18,0,4.25,3,0,53.9,3.76
+Iced Tea Large,5,54,37,0,5.55,30,0,79.6,6.04
+Chicken Tenders 6pc,2,166,13,0,1.91,2,0,60.3,1.16
+Sisig Rice Bowl,3,117,14,0,3.06,2,0,57.3,3.37
+Bacon Deluxe,1,149,24,0,4.63,3,1,54.3,6.55
+Coleslaw,4,43,8,0,0.86,3,0,71.8,0.9
+Chicken Sandwich,2,108,26,0,5.15,3,0,59.4,5.47
+Chocolate Sundae,6,49,50,0,5.53,14,1,67.4,6.1
+Apple Pie,6,46,15,0,6.25,7,0,67.6,6.92
+Chocolate Sundae,6,53,98,0,11.54,14,0,69.8,13.06
+Mozzarella Sticks,4,85,6,1,1.47,5,1,64.5,1.84
+Burger Steak Rice,3,111,37,1,3.42,2,0,62.0,3.23
+Spicy Jalapeno Burger,1,114,27,0,3.48,3,0,54.5,2.8
+Mushroom Swiss,1,138,10,0,2.92,3,0,57.9,1.76
+Iced Tea Regular,5,40,197,0,44.97,30,0,80.1,40.73
+Mashed Potato,4,48,22,1,2.17,3,0,68.8,1.45
+Chicken Tenders 6pc,2,150,19,0,1.35,2,0,55.9,0.94
+French Fries Large,4,66,69,0,9.96,5,0,69.6,9.11
+Chicken Adobo Rice,3,102,19,0,4.03,2,0,54.8,4.03
+Mashed Potato,4,47,42,0,5.84,3,0,67.8,10.72
+Spicy Jalapeno Burger,1,116,37,0,5.01,3,0,55.1,3.88
+Iced Tea Regular,5,38,40,0,7.31,30,0,78.8,7.02
+Onion Rings,4,58,5,0,1.64,4,0,68.7,1.45
+Halo-Halo Special,6,86,13,0,3.75,5,0,65.0,2.85
+Burger Steak Rice,3,110,30,0,4.23,2,1,61.7,4.88
+Double Hi-King,1,139,0,0,11.27,3,0,55.5,10.11
+Halo-Halo Special,6,98,17,0,2.14,5,0,69.3,1.31
+Mushroom Swiss,1,137,9,2,1.06,3,0,57.6,0.99
+Spicy Jalapeno Burger,1,117,32,0,4.75,3,0,55.4,6.68
+Chicken Adobo Rice,3,107,28,0,3.25,2,1,56.9,4.0
+Onion Rings,4,63,101,0,12.2,4,1,71.2,10.47
+Hot Coffee,5,47,41,0,4.86,60,1,78.5,5.14
+Iced Tea Large,5,58,38,0,4.49,30,1,81.0,5.08
+Crispy Chicken 1pc,2,102,86,0,16.79,2,1,58.8,23.0
+Bottled Water,5,26,37,0,3.69,180,0,72.9,3.98
+Mozzarella Sticks,4,83,10,0,4.97,5,0,63.8,4.31
+Bacon Deluxe,1,145,99,0,19.45,3,0,53.1,17.47
+Mozzarella Sticks,4,88,18,0,4.02,5,0,65.8,2.49
+Chicken Sandwich,2,104,18,0,3.29,3,1,57.6,3.22
+Crispy Chicken 1pc,2,104,47,0,7.29,2,1,59.5,7.53
+Apple Pie,6,47,7,0,2.93,7,0,68.2,2.48
+Burger Steak Rice,3,99,16,0,4.6,2,0,57.6,4.32
+Iced Tea Regular,5,37,39,0,5.6,30,0,78.5,3.98
+Iced Tea Regular,5,39,234,0,36.38,30,1,79.7,46.68
+Bottled Water,5,25,31,0,4.15,180,0,72.1,3.76
+Sisig Rice Bowl,3,116,4,0,4.96,2,0,57.0,6.18
+Pork Tonkatsu Rice,3,123,13,0,1.55,2,0,54.4,2.01
+Pork Tonkatsu Rice,3,125,5,0,1.61,2,0,55.1,1.93
+Lemonade,5,55,10,0,2.65,30,0,81.8,1.98
+Chicken Tenders 6pc,2,148,9,0,6.97,2,0,55.3,5.56
+Lemonade,5,51,29,0,5.8,30,0,80.4,4.97
+Chicken Sandwich,2,110,20,0,7.29,3,0,60.0,7.7
+Spicy Jalapeno Burger,1,113,14,0,3.98,3,0,54.1,3.5
+Buffalo Wings 6pc,2,163,20,0,3.64,2,0,55.9,3.7
+Pork Tonkatsu Rice,3,140,37,0,5.33,2,0,60.1,5.03
+Sisig Rice Bowl,3,125,11,0,2.33,2,0,60.0,1.83
+Chocolate Sundae,6,54,9,0,3.52,14,0,70.6,2.84
+Spicy Jalapeno Burger,1,118,24,0,2.09,3,1,55.8,2.19
+Mashed Potato,4,42,7,0,4.52,3,0,63.9,5.4
+Cola Regular,5,40,37,0,30.36,60,0,77.7,29.88
+Cola Regular,5,40,16,0,3.28,60,0,77.3,3.38
+Hi-King Burger,1,94,0,0,9.53,3,0,59.5,8.42
+French Fries Large,4,67,180,0,26.35,5,0,69.9,21.25
+Buffalo Wings 6pc,2,151,50,0,7.87,2,0,52.3,7.16
+Iced Tea Regular,5,41,58,0,8.9,30,1,80.6,8.87
+Chocolate Sundae,6,52,23,0,4.24,14,1,69.1,3.35
+Chicken Adobo Rice,3,111,45,0,10.3,2,0,58.7,10.16
+Bottled Water,5,23,4,0,3.88,180,1,69.9,4.39
+Bacon Deluxe,1,153,1,0,2.03,3,0,55.7,2.04
+Hot Coffee,5,46,0,0,9.8,60,1,78.3,13.9
+Apple Pie,6,41,20,0,3.09,7,1,63.8,2.88
+Cola Regular,5,37,64,0,12.84,60,0,75.5,8.26
+Cheese Burger,1,77,51,0,14.11,3,0,57.1,12.76
+French Fries Regular,4,47,262,0,34.14,5,0,70.1,34.78
+Crispy Chicken 1pc,2,100,0,0,17.49,2,1,58.0,26.15
+Coleslaw,4,36,3,0,1.81,3,0,67.1,1.55
+Halo-Halo Special,6,83,23,0,4.12,5,0,63.9,3.5
+Hot Coffee,5,44,4,0,2.39,60,0,77.3,3.02
+Chocolate Sundae,6,52,35,0,4.58,14,0,69.4,3.88
+French Fries Large,4,77,14,0,3.82,5,1,74.0,4.88
+French Fries Large,4,76,41,0,3.72,5,0,73.7,3.64
+Burger Steak Rice,3,100,86,0,10.22,2,0,58.1,5.97
+Iced Tea Regular,5,38,89,0,20.35,30,0,79.0,23.31
+Halo-Halo Special,6,87,112,0,16.28,5,1,65.6,14.16
+Halo-Halo Special,6,88,0,0,5.43,5,0,65.9,4.03
+Double Hi-King,1,131,108,0,16.02,3,1,52.6,21.12
+Chicken Tenders 6pc,2,138,15,0,4.62,2,0,52.2,3.23
+Coleslaw,4,43,0,1,2.15,3,0,72.3,1.88
+Buffalo Wings 6pc,2,149,130,0,19.01,2,0,51.6,23.95
+Chicken Adobo Rice,3,103,54,0,5.94,2,0,55.2,3.83
+Mushroom Swiss,1,137,20,0,3.65,3,0,57.6,3.18
+Crispy Chicken 1pc,2,94,250,0,42.91,2,0,55.4,37.79
+Mushroom Swiss,1,134,2,0,6.63,3,0,56.8,7.24
+Buffalo Wings 6pc,2,151,52,0,9.87,2,1,52.2,9.62
+Bacon Deluxe,1,155,10,0,5.8,3,0,56.3,4.23
+Sisig Rice Bowl,3,125,59,0,11.82,2,0,59.9,15.42
+Chocolate Sundae,6,50,43,0,7.19,14,1,67.8,10.58
+Apple Pie,6,45,6,0,6.3,7,0,66.9,5.12
+Double Hi-King,1,141,38,0,8.04,3,1,56.0,8.8
+Bottled Water,5,24,13,0,2.39,180,0,70.5,2.75
+Chicken Tenders 6pc,2,150,51,0,6.93,2,0,56.1,8.65
+Iced Tea Regular,5,40,37,0,5.95,30,0,80.2,4.54
+Chocolate Sundae,6,54,23,0,4.2,14,0,70.1,3.79
+Iced Tea Large,5,53,23,0,3.99,30,1,79.4,6.01
+Pork Tonkatsu Rice,3,131,0,0,2.69,2,0,57.3,2.65
+Chicken Adobo Rice,3,101,30,0,4.02,2,0,54.3,4.32
+Burger Steak Rice,3,101,10,0,5.31,2,1,58.5,6.42
+Pork Tonkatsu Rice,3,122,10,0,3.56,2,0,54.2,3.12
+French Fries Regular,4,51,112,0,16.25,5,1,72.5,18.86
+Cheese Burger,1,82,112,0,15.69,3,0,59.7,12.13
+Pork Tonkatsu Rice,3,139,0,0,4.3,2,0,59.6,5.07
+Cheese Burger,1,78,67,0,6.58,3,1,57.5,10.35
+Chocolate Sundae,6,50,0,0,6.03,14,0,68.1,7.03
+Onion Rings,4,60,19,0,3.29,4,0,69.8,1.7
+Mushroom Swiss,1,122,26,0,4.46,3,1,52.5,10.39
+Onion Rings,4,62,26,0,3.06,4,0,71.0,2.05
+Iced Tea Large,5,60,31,0,5.55,30,1,81.8,7.0
+Bacon Deluxe,1,163,55,0,7.32,3,0,58.2,5.06
+Sisig Rice Bowl,3,121,16,0,2.23,2,0,58.8,1.85
+Crispy Chicken 1pc,2,106,90,0,12.26,2,0,60.5,16.0
+Chicken Tenders 6pc,2,147,0,0,8.35,2,0,55.2,5.43
+Hi-King Burger,1,89,45,0,7.16,3,0,57.5,5.63
+Onion Rings,4,57,45,0,7.74,4,0,68.6,7.09
+Chicken Sandwich,2,103,79,0,13.53,3,0,57.4,15.63
+Coleslaw,4,42,8,0,1.7,3,0,71.5,1.75
+Apple Pie,6,44,0,0,4.02,7,1,66.2,6.98
+Chicken Adobo Rice,3,112,0,0,7.46,2,0,58.9,7.59
+French Fries Large,4,74,38,0,3.7,5,0,73.1,3.62
+French Fries Regular,4,47,35,0,4.42,5,0,70.4,3.43
+Iced Tea Large,5,60,0,0,6.46,30,0,81.7,7.18
+Coleslaw,4,37,16,0,1.0,3,0,67.1,0.96
+Burger Steak Rice,3,95,26,0,6.85,2,0,56.0,7.08
+Halo-Halo Special,6,93,20,0,2.31,5,1,67.8,2.35
+Hot Coffee,5,42,37,0,4.14,60,0,76.0,3.34
+Iced Tea Large,5,55,31,0,8.05,30,0,80.1,10.22
+Chicken Tenders 6pc,2,150,4,0,3.57,2,0,56.0,3.68
+Crispy Chicken 2pc,2,176,82,0,9.86,2,0,54.7,8.5
+Cheese Burger,1,82,53,0,7.61,3,0,59.8,8.51
+Chicken Sandwich,2,100,34,0,5.85,3,0,56.2,5.02
+Cola Regular,5,36,0,0,12.04,60,1,75.3,10.06
+Iced Tea Regular,5,39,60,0,11.88,30,0,79.3,7.72
+Iced Tea Large,5,51,93,0,10.78,30,1,78.4,13.34
+Chicken Adobo Rice,3,117,78,0,12.62,2,0,60.8,9.29
+Chocolate Sundae,6,51,27,0,4.74,14,1,68.9,7.29
+Sisig Rice Bowl,3,127,73,0,5.81,2,0,60.5,6.07
+Crispy Chicken 2pc,2,176,18,1,2.92,2,0,54.5,2.26
+Mashed Potato,4,47,30,0,3.06,3,0,67.8,3.73
+Pork Tonkatsu Rice,3,122,0,0,6.61,2,1,54.0,4.96
+Spicy Jalapeno Burger,1,113,30,0,3.89,3,0,54.0,2.45
+Chicken Tenders 6pc,2,140,8,0,5.17,2,0,53.0,5.54
+Spicy Jalapeno Burger,1,125,73,0,10.09,3,0,58.3,16.53
+Coleslaw,4,41,12,0,1.46,3,1,70.6,2.41
+Lemonade,5,50,45,0,9.16,30,0,80.0,6.88
+Iced Tea Large,5,59,14,0,2.49,30,0,81.2,1.6
+Coleslaw,4,40,0,0,2.68,3,0,70.0,2.26
+Spicy Jalapeno Burger,1,117,48,0,8.54,3,0,55.4,5.42
+Iced Tea Large,5,54,0,0,3.25,30,1,79.5,4.23
+Chocolate Sundae,6,48,53,0,10.89,14,0,66.6,12.23
+Halo-Halo Special,6,84,10,0,2.53,5,0,64.3,4.68
+Mozzarella Sticks,4,83,28,0,3.99,5,1,63.8,3.39
+Iced Tea Regular,5,41,55,0,16.44,30,0,80.6,14.25
+Iced Tea Regular,5,41,25,0,6.27,30,0,80.3,6.13
+Mashed Potato,4,49,9,0,4.28,3,0,69.4,3.26
+French Fries Large,4,70,17,0,8.04,5,1,71.3,9.03
+Sisig Rice Bowl,3,130,1,0,6.15,2,1,61.6,8.02
+Spicy Jalapeno Burger,1,114,73,0,14.13,3,1,54.5,18.86
+Double Hi-King,1,131,41,0,6.45,3,0,52.7,5.97
+Chicken Adobo Rice,3,114,24,0,6.06,2,0,59.8,6.18
+Crispy Chicken 1pc,2,97,1,0,11.52,2,0,56.5,9.1
+Pork Tonkatsu Rice,3,123,33,0,5.19,2,0,54.5,5.55
+Bottled Water,5,24,26,0,4.25,180,1,71.3,6.5
+Pork Tonkatsu Rice,3,138,7,0,1.64,2,0,59.5,1.46
+Iced Tea Large,5,51,14,0,8.41,30,0,78.4,9.96
+Lemonade,5,46,13,0,1.95,30,1,78.3,1.99
+Bacon Deluxe,1,160,50,0,6.32,3,1,57.6,7.88
+Chicken Sandwich,2,107,4,0,4.97,3,1,59.0,3.78
+Mashed Potato,4,48,0,0,3.65,3,0,68.8,2.68
+Sisig Rice Bowl,3,123,58,0,7.05,2,1,59.3,8.45
+Double Hi-King,1,155,57,0,7.71,3,0,60.0,6.4
+Sisig Rice Bowl,3,125,86,0,12.4,2,0,60.0,11.47
+Cola Regular,5,37,48,0,10.0,60,0,75.4,13.32
+Chicken Adobo Rice,3,106,39,0,13.72,2,0,56.5,15.84
+Hi-King Burger,1,92,39,0,10.13,3,0,58.8,10.17
+Cheese Burger,1,84,79,0,13.78,3,0,60.7,12.41
+Spicy Jalapeno Burger,1,131,8,0,2.57,3,1,60.4,3.58
+Pork Tonkatsu Rice,3,121,10,3,1.57,2,0,53.7,1.28
+Iced Tea Large,5,53,40,0,5.38,30,0,79.4,6.17
+Cheese Burger,1,73,101,0,14.78,3,0,54.7,14.32
+Bacon Deluxe,1,158,55,0,6.13,3,0,57.0,5.56
+Iced Tea Large,5,60,83,0,17.55,30,1,81.5,19.18
+Spicy Jalapeno Burger,1,132,0,0,2.08,3,0,60.5,1.87
+Hot Coffee,5,43,25,0,3.51,60,0,76.6,3.37
+French Fries Regular,4,45,50,0,7.62,5,1,69.0,11.09
+Mushroom Swiss,1,126,12,0,2.59,3,1,53.9,2.66
+Bottled Water,5,25,9,0,2.74,180,0,71.4,2.48
+Hot Coffee,5,48,23,0,9.68,60,1,79.0,10.94
+Apple Pie,6,47,16,0,3.6,7,0,68.0,4.66
+Iced Tea Regular,5,41,23,0,8.25,30,1,80.7,9.13
+French Fries Large,4,66,37,0,4.03,5,0,69.7,4.45
+Sisig Rice Bowl,3,124,20,0,6.57,2,1,59.6,8.73
+Bacon Deluxe,1,164,10,0,8.73,3,1,58.6,9.88
+Buffalo Wings 6pc,2,162,46,0,3.43,2,0,55.4,3.04
+Double Hi-King,1,133,54,0,7.73,3,0,53.3,8.22
+Mozzarella Sticks,4,83,14,0,2.48,5,0,63.7,2.89
+Crispy Chicken 1pc,2,95,300,0,46.31,2,1,55.8,54.66
+Cheese Burger,1,88,0,0,7.37,3,0,62.7,7.77
+Apple Pie,6,49,29,0,5.19,7,0,69.2,4.52
+Apple Pie,6,50,20,0,4.51,7,0,69.8,6.6
+Bacon Deluxe,1,153,79,0,10.98,3,0,55.7,10.32
+Chicken Adobo Rice,3,105,16,0,3.64,2,0,56.0,3.19
+Mashed Potato,4,43,17,0,2.17,3,0,65.5,2.39
+Burger Steak Rice,3,107,31,0,6.66,2,0,60.7,5.2
+Cola Regular,5,39,9,0,13.42,60,0,76.6,10.82
+Lemonade,5,50,54,0,7.24,30,0,80.1,7.68
+Spicy Jalapeno Burger,1,123,54,0,7.33,3,1,57.9,7.88
+Crispy Chicken 2pc,2,195,66,0,9.22,2,0,58.9,6.41
+Crispy Chicken 1pc,2,92,43,0,6.98,2,0,54.3,7.44
+Coleslaw,4,37,3,0,1.33,3,0,67.3,1.56
+Hi-King Burger,1,83,40,0,6.25,3,0,54.3,4.53
+Spicy Jalapeno Burger,1,127,32,0,2.06,3,0,59.1,2.46
+Double Hi-King,1,147,29,0,6.65,3,0,57.9,6.01
+Bacon Deluxe,1,145,56,0,8.88,3,0,53.0,10.77
+Crispy Chicken 1pc,2,105,5,0,6.32,2,0,59.8,6.24
+Onion Rings,4,56,10,0,4.11,4,0,67.9,3.51
+Chicken Tenders 6pc,2,148,57,0,5.83,2,0,55.5,4.48
+Hi-King Burger,1,85,9,0,15.21,3,0,55.3,13.4
+Chicken Adobo Rice,3,115,35,0,9.64,2,1,60.1,15.47
+Mushroom Swiss,1,119,44,0,4.51,3,0,51.2,7.38
+French Fries Regular,4,45,93,0,19.61,5,0,69.0,17.15
+Crispy Chicken 2pc,2,189,37,0,3.55,2,1,57.7,4.05
+Burger Steak Rice,3,97,139,0,16.39,2,0,56.7,18.8
+Chicken Sandwich,2,92,30,0,5.88,3,0,52.2,2.66
+Mashed Potato,4,49,37,0,3.47,3,1,69.5,4.94
+Spicy Jalapeno Burger,1,132,21,0,3.74,3,1,60.6,4.15
+Apple Pie,6,49,0,0,12.5,7,0,69.5,11.15
+Sisig Rice Bowl,3,112,8,0,2.61,2,0,55.3,2.61
+Chicken Tenders 6pc,2,154,124,0,12.8,2,0,57.0,15.13
+Crispy Chicken 1pc,2,95,0,0,13.38,2,0,56.0,12.19
+Chicken Sandwich,2,108,6,0,3.09,3,0,59.2,2.87
+Chocolate Sundae,6,51,24,0,5.1,14,0,68.4,6.68
+Lemonade,5,53,58,0,17.15,30,1,81.2,17.04
+Mashed Potato,4,49,10,0,1.28,3,0,69.7,1.28
+Bottled Water,5,27,27,0,3.96,180,0,74.3,5.77
+Spicy Jalapeno Burger,1,111,5,0,6.08,3,0,53.2,4.99
+Mushroom Swiss,1,121,17,0,3.31,3,0,52.1,2.15
+Iced Tea Regular,5,39,130,0,18.03,30,0,79.7,16.23
+Bacon Deluxe,1,154,10,0,6.26,3,0,55.8,5.13
+Bottled Water,5,28,27,0,2.23,180,1,74.5,2.32
+Lemonade,5,47,38,0,5.94,30,0,78.6,5.71
+Cheese Burger,1,80,29,0,5.61,3,1,58.6,6.13
+Chicken Sandwich,2,109,53,0,6.78,3,0,59.7,3.46
+Double Hi-King,1,155,26,0,3.57,3,0,60.0,6.71
+Chicken Tenders 6pc,2,159,2,0,2.48,2,1,58.6,3.23
+Chicken Adobo Rice,3,111,35,0,4.32,2,0,58.4,3.33
+Cheese Burger,1,85,40,0,7.33,3,0,61.2,4.38
+Hot Coffee,5,43,21,0,2.81,60,0,76.6,1.81
+Hot Coffee,5,42,49,0,5.83,60,0,76.0,8.56
+Iced Tea Large,5,55,0,0,5.21,30,0,80.0,4.14
+Chocolate Sundae,6,52,35,0,4.94,14,0,69.1,5.49
+Spicy Jalapeno Burger,1,123,0,0,4.28,3,0,57.6,3.45
+Hi-King Burger,1,91,39,0,7.61,3,0,58.2,7.78
+French Fries Large,4,72,27,0,3.21,5,0,72.3,4.68
+Onion Rings,4,57,17,1,1.18,4,0,68.4,1.15
+Cola Regular,5,43,21,0,9.1,60,0,79.2,8.89
+Bacon Deluxe,1,166,52,0,5.96,3,1,59.0,4.95
+Chocolate Sundae,6,53,10,0,3.4,14,0,69.9,2.27
+Hi-King Burger,1,90,46,0,8.64,3,0,57.8,7.27
+Sisig Rice Bowl,3,121,35,0,7.81,2,0,58.5,4.72
+Apple Pie,6,49,19,0,1.43,7,0,69.6,1.39
+Chicken Sandwich,2,104,5,0,6.86,3,0,57.6,7.26
+Cheese Burger,1,73,49,0,7.29,3,0,54.8,6.63
+Lemonade,5,54,11,0,1.57,30,0,81.4,1.02
+Mozzarella Sticks,4,85,5,1,0.64,5,0,64.7,0.65
+Onion Rings,4,57,14,0,2.37,4,1,68.5,3.44
+Chicken Sandwich,2,99,6,0,4.14,3,1,55.4,5.49
+Sisig Rice Bowl,3,127,15,0,5.86,2,0,60.6,5.59
+Onion Rings,4,62,46,0,5.58,4,0,71.0,4.28
+Bacon Deluxe,1,162,14,0,6.84,3,0,58.0,6.47
+Crispy Chicken 1pc,2,102,11,0,7.6,2,1,58.7,8.66
+Bacon Deluxe,1,145,5,0,5.63,3,0,53.2,5.69
+Coleslaw,4,43,18,1,1.56,3,1,72.1,2.02
+Pork Tonkatsu Rice,3,128,73,0,7.39,2,0,56.2,6.2
+Halo-Halo Special,6,87,7,0,3.31,5,0,65.6,3.27
+Chicken Adobo Rice,3,110,9,0,4.16,2,0,58.1,4.52
+French Fries Large,4,75,50,0,9.45,5,0,73.3,7.02
+Hot Coffee,5,48,74,0,10.9,60,0,79.0,11.86
+Cola Regular,5,40,42,0,10.44,60,0,77.4,11.44
+Bacon Deluxe,1,167,32,0,5.13,3,1,59.2,7.69
+Pork Tonkatsu Rice,3,126,25,0,4.72,2,1,55.7,6.12
+Chicken Sandwich,2,99,33,0,3.55,3,0,55.5,4.27
+Chicken Tenders 6pc,2,142,33,0,8.14,2,0,53.6,8.74
+Spicy Jalapeno Burger,1,110,22,0,4.28,3,1,52.9,3.42
+French Fries Regular,4,54,22,0,7.19,5,0,74.3,5.51
+French Fries Large,4,67,51,0,6.31,5,1,70.2,8.32
+Buffalo Wings 6pc,2,160,34,0,4.09,2,0,55.0,4.12
+Lemonade,5,47,69,0,8.85,30,0,78.7,8.37
+Iced Tea Large,5,54,36,0,3.98,30,0,79.7,3.79
+Chicken Tenders 6pc,2,167,35,0,3.37,2,1,60.4,2.32
+Cola Regular,5,38,40,0,10.59,60,0,76.3,8.22
+Spicy Jalapeno Burger,1,119,31,0,3.51,3,1,56.5,2.83
+Cola Regular,5,42,84,0,13.88,60,0,78.4,11.87
+Mozzarella Sticks,4,86,15,0,3.56,5,0,65.1,3.54
+Double Hi-King,1,152,93,0,13.01,3,0,59.1,7.97
+Chicken Adobo Rice,3,116,90,0,12.46,2,0,60.3,9.3
+Chicken Tenders 6pc,2,159,8,0,3.64,2,0,58.4,3.53
+Crispy Chicken 1pc,2,102,0,0,10.31,2,1,58.7,10.16
+Iced Tea Large,5,57,38,0,5.79,30,0,80.6,6.37
+Buffalo Wings 6pc,2,174,44,0,7.05,2,0,58.6,6.01
+Halo-Halo Special,6,98,14,0,3.57,5,0,69.3,4.04
+Bottled Water,5,23,17,0,4.41,180,0,69.8,2.93
+Pork Tonkatsu Rice,3,120,2,0,4.18,2,0,53.5,3.5
+Mashed Potato,4,45,45,0,7.86,3,0,66.8,8.01
+Iced Tea Regular,5,39,225,0,33.58,30,1,79.7,42.14
+Coleslaw,4,40,0,0,1.38,3,0,69.8,0.86
+Spicy Jalapeno Burger,1,133,0,0,3.88,3,0,61.0,3.55
+Apple Pie,6,45,9,0,1.8,7,0,66.5,1.54
+Hot Coffee,5,45,6,0,4.17,60,0,77.7,4.8
+Pork Tonkatsu Rice,3,132,18,0,2.52,2,0,57.7,1.84
+Coleslaw,4,38,24,1,2.39,3,1,68.3,2.9
+Crispy Chicken 1pc,2,90,95,0,23.46,2,0,53.5,34.42
+Double Hi-King,1,140,97,0,8.77,3,0,55.7,6.63
+Mashed Potato,4,49,9,0,3.04,3,0,69.2,2.42
+Lemonade,5,49,2,0,15.22,30,0,79.6,13.91
+Hi-King Burger,1,92,129,0,15.49,3,1,58.9,14.69
+Pork Tonkatsu Rice,3,139,32,0,5.3,2,0,59.8,6.96
+Iced Tea Large,5,61,91,0,13.92,30,0,82.1,14.85
+Hot Coffee,5,44,42,0,5.81,60,1,77.4,8.59
+Double Hi-King,1,151,21,0,7.24,3,0,59.0,8.56
+Hot Coffee,5,42,5,0,3.57,60,0,76.4,2.41
+Crispy Chicken 1pc,2,100,26,0,7.01,2,0,57.9,4.58
+Chocolate Sundae,6,54,50,0,11.02,14,0,70.5,12.48
+Halo-Halo Special,6,95,6,0,1.14,5,0,68.3,1.71
+Chicken Tenders 6pc,2,162,22,0,4.05,2,0,59.3,3.14
+Burger Steak Rice,3,107,0,0,7.38,2,0,60.6,8.54
+Chocolate Sundae,6,50,16,0,3.62,14,0,68.2,4.07
+Chicken Adobo Rice,3,110,68,0,15.98,2,0,58.1,15.71
+Mushroom Swiss,1,141,6,0,5.09,3,0,58.9,5.1
+Double Hi-King,1,148,42,0,6.88,3,0,58.1,5.85
+Bottled Water,5,24,7,0,2.8,180,0,70.5,3.67
+Crispy Chicken 2pc,2,170,32,0,6.15,2,0,53.0,4.83
+Chicken Sandwich,2,106,50,0,3.95,3,0,58.4,4.2
+Mushroom Swiss,1,134,5,0,4.66,3,0,56.8,3.99
+Pork Tonkatsu Rice,3,143,8,0,1.52,2,0,60.7,1.14
+Burger Steak Rice,3,104,21,0,5.73,2,1,59.8,6.14
+Iced Tea Regular,5,38,25,0,21.18,30,0,79.1,20.89
+Onion Rings,4,55,0,0,3.07,4,0,67.0,2.46
+Sisig Rice Bowl,3,125,21,0,6.26,2,0,60.1,7.1
+Mozzarella Sticks,4,78,66,0,6.0,5,0,61.8,5.02
+Coleslaw,4,37,0,3,0.88,3,0,67.8,0.97
+Cheese Burger,1,77,78,0,11.48,3,0,57.2,7.2
+Crispy Chicken 1pc,2,106,0,0,2.97,2,0,60.5,2.9
+Sisig Rice Bowl,3,132,19,1,1.6,2,1,62.0,1.92
+French Fries Regular,4,54,84,0,15.21,5,1,74.0,18.6
+Mushroom Swiss,1,127,13,1,2.98,3,0,54.3,3.45
+Chicken Sandwich,2,106,52,0,11.53,3,0,58.4,11.17
+Lemonade,5,51,24,0,2.86,30,0,80.3,2.57
+French Fries Regular,4,47,58,0,9.39,5,0,70.4,8.86
+Pork Tonkatsu Rice,3,119,6,0,2.28,2,0,53.0,1.96
+Chicken Adobo Rice,3,107,62,0,16.74,2,0,57.1,13.13
+Chocolate Sundae,6,52,1,0,5.45,14,0,69.2,4.38
+Chicken Tenders 6pc,2,141,22,0,4.76,2,0,53.1,4.79
+Halo-Halo Special,6,90,19,0,2.97,5,1,66.7,3.44
+Chocolate Sundae,6,51,13,0,10.8,14,1,68.4,11.68
+Chocolate Sundae,6,47,63,0,12.37,14,1,65.8,12.36
+Onion Rings,4,57,12,0,4.66,4,0,68.2,5.37
+Pork Tonkatsu Rice,3,138,14,1,1.73,2,0,59.4,3.45
+Apple Pie,6,49,15,0,3.64,7,0,69.4,2.75
+Pork Tonkatsu Rice,3,144,21,0,2.63,2,0,61.2,2.95
+Hi-King Burger,1,83,39,0,6.3,3,0,54.3,4.14
+Mozzarella Sticks,4,78,5,4,1.13,5,0,61.6,0.99
+Chocolate Sundae,6,47,26,0,3.72,14,0,66.3,2.4
+Bacon Deluxe,1,152,31,0,5.39,3,0,55.3,4.2
+Chicken Sandwich,2,102,7,0,10.06,3,0,56.7,7.65
+Lemonade,5,54,36,0,5.3,30,0,81.4,4.46
+Chicken Tenders 6pc,2,147,83,0,8.19,2,0,55.1,12.4
+Chicken Tenders 6pc,2,160,11,0,1.99,2,1,58.8,2.15
+Cheese Burger,1,81,222,0,37.76,3,0,59.1,31.86
+Hot Coffee,5,45,4,0,3.57,60,0,77.7,4.07
+Chicken Tenders 6pc,2,141,26,0,5.14,2,1,53.1,6.05
+Crispy Chicken 1pc,2,90,38,0,9.75,2,0,53.5,11.0
+Spicy Jalapeno Burger,1,130,16,0,4.22,3,0,59.9,3.78
+Spicy Jalapeno Burger,1,124,19,0,3.75,3,0,58.0,2.16
+Chocolate Sundae,6,53,64,0,8.78,14,0,69.7,8.22
+Chicken Adobo Rice,3,111,14,0,2.1,2,0,58.7,1.91
+Crispy Chicken 2pc,2,193,59,0,8.0,2,0,58.4,7.09
+Pork Tonkatsu Rice,3,136,5,0,2.0,2,1,59.0,2.23
+Apple Pie,6,46,20,0,2.53,7,0,67.3,3.58
+Crispy Chicken 1pc,2,90,41,0,6.15,2,0,53.4,4.99
+Mozzarella Sticks,4,76,5,0,2.54,5,0,60.4,2.76
+Chicken Sandwich,2,97,78,0,11.81,3,1,54.6,14.83
+Crispy Chicken 2pc,2,184,29,0,8.47,2,0,56.6,6.78
+French Fries Large,4,74,0,0,8.63,5,0,73.0,9.21
+Halo-Halo Special,6,87,8,0,2.05,5,0,65.3,1.84
+Mashed Potato,4,44,13,0,1.17,3,1,65.8,1.52
+Apple Pie,6,45,49,0,7.35,7,0,66.4,7.66
+Mushroom Swiss,1,121,17,0,3.28,3,0,51.9,2.5
+Chicken Adobo Rice,3,108,37,0,7.22,2,1,57.6,6.49
+Burger Steak Rice,3,104,7,0,4.21,2,1,59.8,5.99
+Chocolate Sundae,6,51,41,0,4.9,14,0,68.8,6.5
+Pork Tonkatsu Rice,3,136,15,0,1.16,2,0,58.9,0.98
+Mozzarella Sticks,4,79,3,0,2.58,5,0,62.1,2.13
+Buffalo Wings 6pc,2,160,95,0,23.23,2,1,55.0,19.69
+Cheese Burger,1,83,26,0,14.19,3,0,60.0,17.16
+Buffalo Wings 6pc,2,161,24,0,14.21,2,1,55.3,12.4
+Sisig Rice Bowl,3,125,64,0,6.5,2,0,60.0,5.79
+Crispy Chicken 2pc,2,173,27,0,4.4,2,0,53.7,4.6
+French Fries Regular,4,51,75,0,11.95,5,0,72.5,7.81
+Bacon Deluxe,1,148,68,0,7.4,3,0,54.1,6.5
+Chicken Sandwich,2,105,78,0,15.13,3,0,58.0,13.92
+Mashed Potato,4,42,28,0,3.85,3,0,64.6,3.43
+French Fries Regular,4,52,25,0,9.16,5,0,72.9,6.61
+Iced Tea Regular,5,42,34,0,10.63,30,1,80.8,26.63
+Chocolate Sundae,6,53,27,0,4.29,14,0,69.5,5.33
+French Fries Large,4,69,29,0,7.96,5,1,70.9,10.05
+Cheese Burger,1,75,96,0,28.63,3,1,56.0,29.68
+Apple Pie,6,45,4,0,3.5,7,0,66.3,3.61
+Iced Tea Regular,5,40,36,0,14.1,30,0,79.9,16.59
+Crispy Chicken 1pc,2,105,0,0,8.56,2,0,59.9,5.73
+Iced Tea Regular,5,42,152,0,35.38,30,0,80.9,32.44
+Mozzarella Sticks,4,77,14,0,3.93,5,1,61.1,4.61
+Buffalo Wings 6pc,2,154,41,0,15.54,2,0,53.4,12.38
+Double Hi-King,1,144,26,0,8.93,3,0,56.9,7.99
+Iced Tea Large,5,52,15,0,5.76,30,0,78.6,4.65
+French Fries Regular,4,47,25,0,11.53,5,0,70.0,11.65
+Chicken Adobo Rice,3,102,68,0,7.33,2,0,54.7,4.65
+Bacon Deluxe,1,147,10,1,2.3,3,0,53.7,2.28
+Bottled Water,5,24,17,0,3.98,180,0,71.0,3.32
+Cheese Burger,1,78,43,0,7.61,3,0,57.8,9.56
+Mozzarella Sticks,4,77,3,0,1.86,5,0,60.9,1.83
+Hot Coffee,5,42,23,0,4.57,60,1,75.9,8.25
+Crispy Chicken 2pc,2,183,31,0,4.6,2,0,56.4,4.12
+Mozzarella Sticks,4,77,4,0,4.13,5,0,61.3,4.26
+French Fries Large,4,65,23,0,4.71,5,0,69.3,3.39
+Hot Coffee,5,46,3,0,2.86,60,0,78.2,1.9
+Crispy Chicken 1pc,2,89,32,0,5.41,2,0,52.7,5.43
+Chicken Tenders 6pc,2,146,41,0,10.02,2,1,54.8,17.12
+Sisig Rice Bowl,3,111,13,0,2.49,2,0,55.1,2.5
+Buffalo Wings 6pc,2,166,19,0,3.89,2,0,56.7,3.17
+Chicken Tenders 6pc,2,153,5,0,6.3,2,1,56.8,12.39
+Burger Steak Rice,3,101,28,0,5.01,2,1,58.2,5.84
+Iced Tea Large,5,60,64,0,8.53,30,0,81.5,7.77
+Crispy Chicken 1pc,2,89,43,0,6.51,2,1,53.1,6.34
+Burger Steak Rice,3,93,38,0,11.27,2,1,54.6,14.85
+Mashed Potato,4,43,25,0,4.07,3,0,65.1,3.94
+Double Hi-King,1,146,24,0,6.16,3,1,57.6,8.18
+Halo-Halo Special,6,98,12,0,1.74,5,0,69.5,1.83
+Mozzarella Sticks,4,84,25,0,3.78,5,0,64.3,4.06
+Iced Tea Large,5,59,13,0,6.04,30,0,81.5,7.42
+Crispy Chicken 2pc,2,174,23,0,3.61,2,0,54.0,2.57
+Iced Tea Large,5,55,12,0,2.5,30,1,79.8,1.96
+Apple Pie,6,42,82,0,15.63,7,0,64.4,11.41
+Apple Pie,6,50,9,0,3.89,7,1,69.8,4.9
+French Fries Large,4,70,34,0,4.15,5,0,71.5,2.99
+Buffalo Wings 6pc,2,164,6,0,1.14,2,0,56.1,1.25
+Chicken Sandwich,2,102,83,0,8.11,3,0,56.9,9.35
+Cheese Burger,1,76,12,0,7.41,3,0,56.4,6.89
+Burger Steak Rice,3,110,93,0,15.87,2,0,62.0,13.08
+Lemonade,5,51,48,0,7.8,30,1,80.5,9.57
+Bottled Water,5,24,56,0,8.32,180,0,70.4,7.36
+Bacon Deluxe,1,155,32,0,3.44,3,1,56.0,2.88
+Pork Tonkatsu Rice,3,126,14,0,2.13,2,0,55.6,1.94
+Iced Tea Large,5,54,29,0,5.89,30,1,79.7,5.17
+Chocolate Sundae,6,51,13,0,12.86,14,0,68.8,12.73
+Bottled Water,5,26,17,0,2.86,180,0,73.3,2.5
+Apple Pie,6,44,54,0,4.61,7,0,65.7,3.15
+Bottled Water,5,23,7,0,2.34,180,0,69.6,2.46
+Halo-Halo Special,6,84,25,0,3.01,5,0,64.4,2.98
+Crispy Chicken 1pc,2,100,0,0,18.58,2,1,58.0,18.09
+Iced Tea Large,5,55,7,0,3.26,30,0,79.9,3.09
+Chicken Tenders 6pc,2,155,27,0,3.7,2,0,57.4,3.81
+Mushroom Swiss,1,130,48,0,10.03,3,0,55.5,8.49
+Hot Coffee,5,50,8,0,3.92,60,0,80.2,4.25
+French Fries Regular,4,51,177,0,22.02,5,0,72.4,17.7
+Chocolate Sundae,6,47,22,0,4.8,14,0,66.0,6.08
+Apple Pie,6,43,29,0,4.35,7,0,64.8,4.02
+French Fries Regular,4,47,73,0,16.9,5,0,70.0,24.17
+Mashed Potato,4,50,0,0,2.34,3,0,69.9,1.63
+Spicy Jalapeno Burger,1,130,38,0,4.58,3,0,60.0,5.32
+Iced Tea Regular,5,43,100,0,14.44,30,1,81.4,17.71
+Chicken Adobo Rice,3,111,48,0,6.89,2,0,58.7,6.97
+Cheese Burger,1,78,50,0,7.82,3,1,57.8,6.88
+Bottled Water,5,25,11,0,2.67,180,1,71.7,3.79
+Bottled Water,5,27,33,0,6.51,180,0,74.4,7.89
+Hi-King Burger,1,86,121,0,12.59,3,0,56.0,10.05
+Spicy Jalapeno Burger,1,126,20,0,3.39,3,0,58.8,3.31
+Pork Tonkatsu Rice,3,131,18,0,1.48,2,0,57.1,1.51
+Coleslaw,4,42,10,0,1.48,3,0,71.2,1.65
+Coleslaw,4,40,2,3,0.94,3,1,69.8,1.23
+Hot Coffee,5,45,39,0,5.82,60,0,78.0,6.94
+Onion Rings,4,58,30,0,4.07,4,0,68.9,2.89
+Chocolate Sundae,6,49,33,0,6.06,14,0,67.0,4.38
+Mushroom Swiss,1,134,12,0,1.34,3,0,56.8,1.34
+Spicy Jalapeno Burger,1,114,20,0,2.21,3,0,54.5,1.67
+Crispy Chicken 1pc,2,97,16,0,9.29,2,0,56.5,7.88
+Burger Steak Rice,3,97,31,0,3.6,2,0,56.6,3.84
+Iced Tea Large,5,53,60,0,8.21,30,0,79.1,8.61
+Buffalo Wings 6pc,2,157,62,0,8.95,2,1,54.3,9.81
+Double Hi-King,1,136,21,0,5.92,3,0,54.3,7.06
+French Fries Regular,4,54,82,0,20.14,5,0,73.9,15.95
+Spicy Jalapeno Burger,1,123,7,0,5.07,3,1,57.7,4.37
+Mushroom Swiss,1,139,12,0,1.65,3,0,58.2,2.17
+Onion Rings,4,65,28,0,5.0,4,0,72.1,5.13
+Mashed Potato,4,47,4,0,2.32,3,0,68.0,2.18
+French Fries Large,4,64,50,0,9.58,5,1,68.8,11.23
+Chocolate Sundae,6,52,54,0,6.4,14,1,69.0,7.0
+Bacon Deluxe,1,152,30,0,5.27,3,0,55.4,5.29
+Chicken Adobo Rice,3,108,22,0,5.76,2,0,57.2,4.29
+Bacon Deluxe,1,145,27,0,4.56,3,0,53.2,4.35
+Iced Tea Regular,5,42,37,0,4.49,30,0,80.8,5.26
+Iced Tea Large,5,59,24,0,3.49,30,0,81.3,2.97
+Cheese Burger,1,76,132,0,18.94,3,1,56.5,25.9
+Mashed Potato,4,44,15,1,1.41,3,1,66.2,1.65
+Hot Coffee,5,50,31,0,7.64,60,1,80.1,9.19
+Chicken Sandwich,2,104,12,0,3.49,3,1,57.6,4.29
+Onion Rings,4,61,7,1,2.79,4,0,70.5,3.68
+Hi-King Burger,1,91,51,0,15.98,3,0,58.4,15.2
+Crispy Chicken 1pc,2,91,30,0,4.28,2,0,53.9,4.53
+Chicken Adobo Rice,3,111,88,0,18.01,2,1,58.7,17.89
+Onion Rings,4,57,19,0,3.19,4,0,68.4,2.92
+Chicken Tenders 6pc,2,159,4,0,3.82,2,0,58.5,3.26
+Iced Tea Regular,5,37,104,0,16.97,30,0,78.1,12.93
+Buffalo Wings 6pc,2,176,40,0,5.57,2,0,59.0,5.59
+Chicken Adobo Rice,3,117,37,0,5.18,2,1,60.6,6.86
+Bacon Deluxe,1,139,20,0,6.17,3,0,51.2,6.49
+French Fries Regular,4,51,104,0,17.38,5,0,72.3,14.27
+Coleslaw,4,40,11,0,2.19,3,1,69.7,2.98
+Double Hi-King,1,135,26,0,8.0,3,0,54.2,7.95
+Bacon Deluxe,1,148,124,0,17.47,3,0,54.1,16.85
+Double Hi-King,1,143,41,0,9.78,3,0,56.6,7.07
+Chicken Adobo Rice,3,107,4,0,2.61,2,0,57.2,3.22
+French Fries Regular,4,51,38,0,7.21,5,1,72.7,6.52
+Mushroom Swiss,1,144,40,0,6.41,3,0,59.6,6.47
+Halo-Halo Special,6,88,11,0,4.22,5,0,65.7,3.18
+Chicken Adobo Rice,3,112,28,0,5.21,2,0,58.8,5.34
+French Fries Large,4,66,43,0,5.66,5,1,69.7,7.63
+Sisig Rice Bowl,3,132,43,0,5.87,2,0,62.2,4.2
+Double Hi-King,1,133,57,0,8.76,3,1,53.5,7.95
+Chocolate Sundae,6,47,86,0,11.65,14,0,66.3,10.47
+Double Hi-King,1,145,49,0,13.58,3,0,57.2,17.05
+Crispy Chicken 2pc,2,176,0,0,6.36,2,0,54.5,4.45
+Cola Regular,5,38,77,0,17.8,60,1,76.2,30.03
+Pork Tonkatsu Rice,3,143,12,0,3.12,2,1,60.9,4.78
+Iced Tea Regular,5,36,116,0,20.6,30,0,77.8,15.41
+Chicken Tenders 6pc,2,144,0,0,4.62,2,0,54.2,4.14
+Mozzarella Sticks,4,83,42,0,3.53,5,1,64.0,4.63
+Mashed Potato,4,50,11,0,3.62,3,0,70.0,3.02
+Halo-Halo Special,6,92,2,0,2.84,5,1,67.4,3.75
+Coleslaw,4,43,23,0,2.62,3,0,72.0,2.72
+Hot Coffee,5,49,0,0,4.42,60,1,79.8,5.7
+Iced Tea Large,5,58,30,0,5.4,30,1,81.1,8.23
+Mashed Potato,4,44,32,0,3.2,3,0,65.7,4.42
+Chicken Sandwich,2,97,57,0,10.96,3,0,54.8,9.9
+Lemonade,5,51,12,0,5.57,30,0,80.3,6.2
+Double Hi-King,1,131,20,0,3.68,3,1,52.8,3.4
+Lemonade,5,49,0,0,2.47,30,0,79.5,2.45
+Bacon Deluxe,1,142,20,0,7.43,3,0,52.0,5.15
+Spicy Jalapeno Burger,1,117,24,0,5.0,3,0,55.6,4.68
+Chicken Tenders 6pc,2,164,10,0,1.86,2,0,59.7,1.78
+Chicken Sandwich,2,108,0,0,5.76,3,1,59.1,8.34
+Cola Regular,5,43,12,0,5.72,60,1,79.1,5.62
+Halo-Halo Special,6,84,16,0,2.78,5,0,64.2,2.99
+Hi-King Burger,1,90,141,0,25.77,3,0,57.8,29.68
+Hi-King Burger,1,86,115,0,14.35,3,0,55.9,17.14
+Cheese Burger,1,83,29,0,5.56,3,0,60.2,7.68
+Spicy Jalapeno Burger,1,132,39,0,6.52,3,0,60.5,7.21
+French Fries Regular,4,48,130,0,17.13,5,0,71.0,17.51
+Apple Pie,6,49,19,0,7.44,7,0,69.6,7.6
+Coleslaw,4,36,27,0,3.43,3,0,66.7,4.02
+Bottled Water,5,28,10,0,1.84,180,1,74.9,2.17
+Lemonade,5,45,22,0,3.5,30,0,77.9,4.51
+Sisig Rice Bowl,3,121,18,0,5.34,2,0,58.7,4.3
+Cheese Burger,1,86,27,0,5.17,3,0,61.5,4.35
+Chicken Sandwich,2,99,33,0,23.47,3,0,55.6,23.82
+Chicken Tenders 6pc,2,167,39,0,6.04,2,1,60.4,6.91
+Iced Tea Large,5,55,28,0,5.17,30,1,80.2,4.94
+Bottled Water,5,28,12,0,2.51,180,0,74.6,3.41
+Iced Tea Regular,5,38,35,0,8.13,30,0,79.0,6.3
+Chicken Tenders 6pc,2,163,16,1,2.06,2,1,59.5,1.95
+Sisig Rice Bowl,3,126,13,2,2.55,2,0,60.3,1.86
+Crispy Chicken 2pc,2,185,6,2,2.63,2,0,56.7,2.41
+Chicken Tenders 6pc,2,146,7,0,8.83,2,0,54.7,8.45
+Iced Tea Large,5,55,29,0,4.22,30,0,79.8,4.34
+Bottled Water,5,27,8,0,2.94,180,0,73.8,2.46
+Buffalo Wings 6pc,2,169,3,0,10.85,2,0,57.4,10.08
+Crispy Chicken 1pc,2,105,71,0,10.45,2,0,60.1,7.57
+French Fries Regular,4,54,32,0,8.46,5,0,74.2,6.05
+Lemonade,5,47,88,0,26.71,30,1,78.5,28.43
+Bottled Water,5,27,24,0,4.3,180,0,73.6,5.55
+Mozzarella Sticks,4,87,19,0,4.12,5,0,65.6,4.79
+Cheese Burger,1,79,41,0,9.82,3,0,58.3,9.96
+Hi-King Burger,1,92,0,0,27.38,3,0,58.6,28.07
+Sisig Rice Bowl,3,123,31,0,3.18,2,0,59.5,2.1
+Chicken Adobo Rice,3,116,3,0,4.72,2,0,60.5,4.99
+Mashed Potato,4,45,18,1,1.31,3,0,66.9,0.97
+Chocolate Sundae,6,49,74,0,11.22,14,0,67.2,12.8
+Hi-King Burger,1,90,43,0,17.24,3,0,57.7,32.73
+Spicy Jalapeno Burger,1,110,9,0,4.86,3,1,52.8,4.82
+French Fries Regular,4,49,1,0,9.74,5,1,71.3,14.76
+Cola Regular,5,42,95,0,18.92,60,0,78.5,19.82
+Mozzarella Sticks,4,82,16,0,5.91,5,0,63.5,5.35
+Double Hi-King,1,128,24,0,7.25,3,0,51.7,5.04
+Chicken Adobo Rice,3,109,49,0,6.02,2,0,57.7,4.58
+Cola Regular,5,43,186,0,28.6,60,0,79.2,15.19
+Apple Pie,6,50,33,0,5.71,7,1,69.7,8.64
+Mushroom Swiss,1,124,12,0,2.98,3,0,53.1,3.36
+Buffalo Wings 6pc,2,151,10,0,2.66,2,0,52.3,2.01
+Crispy Chicken 1pc,2,100,12,0,5.59,2,0,57.9,4.76
+French Fries Large,4,73,26,0,4.48,5,0,72.7,5.92
+Mushroom Swiss,1,129,11,1,2.44,3,0,55.1,1.71
+Spicy Jalapeno Burger,1,122,13,1,2.64,3,0,57.2,3.06
+Cheese Burger,1,79,89,0,14.15,3,0,58.4,10.28
+Buffalo Wings 6pc,2,168,0,0,2.77,2,0,57.0,2.65
+Coleslaw,4,39,3,0,2.11,3,1,68.9,2.48
+Chicken Tenders 6pc,2,154,12,0,4.03,2,0,57.0,2.94
+Cola Regular,5,41,39,0,9.66,60,1,78.2,8.17
+French Fries Regular,4,49,74,0,16.99,5,0,71.5,17.69
+Pork Tonkatsu Rice,3,134,39,0,7.29,2,0,58.3,6.52
+Chocolate Sundae,6,53,38,0,6.55,14,1,69.9,9.85
+Pork Tonkatsu Rice,3,139,25,0,2.27,2,0,59.8,1.87
+Lemonade,5,49,28,0,7.46,30,1,79.5,10.53
+Chicken Sandwich,2,97,13,0,5.58,3,1,54.8,6.8
+Coleslaw,4,39,21,2,1.99,3,1,69.3,3.15
+Hi-King Burger,1,83,113,0,15.28,3,0,53.9,11.03
+Apple Pie,6,45,21,0,4.35,7,0,66.7,3.38
+Mushroom Swiss,1,135,46,0,4.05,3,1,57.0,5.65
+Burger Steak Rice,3,93,97,0,13.4,2,1,55.1,18.49
+Lemonade,5,50,12,0,5.08,30,1,80.1,7.14
+Chicken Adobo Rice,3,116,19,0,5.45,2,0,60.2,6.09
+Bacon Deluxe,1,141,4,0,4.26,3,1,51.9,5.97
+Mozzarella Sticks,4,76,2,0,1.48,5,0,60.4,1.83
+Apple Pie,6,48,0,0,2.37,7,0,69.0,1.54
+Mushroom Swiss,1,137,27,0,4.48,3,1,57.8,3.91
+Mushroom Swiss,1,143,44,0,7.97,3,1,59.3,7.38
+Hot Coffee,5,50,27,0,3.04,60,0,80.0,2.66
+Mashed Potato,4,43,5,0,1.87,3,0,64.9,1.82
+Crispy Chicken 2pc,2,162,18,0,9.83,2,1,50.6,11.71
+Chicken Adobo Rice,3,116,58,0,7.54,2,1,60.5,9.41
+Spicy Jalapeno Burger,1,133,20,0,2.51,3,1,60.8,3.73
+Pork Tonkatsu Rice,3,125,19,0,3.21,2,0,55.3,2.99
+Crispy Chicken 2pc,2,170,16,0,2.26,2,0,52.9,2.37
+Buffalo Wings 6pc,2,168,2,0,1.87,2,1,57.3,2.17
+Coleslaw,4,37,10,0,2.93,3,0,67.2,2.78
+Chicken Adobo Rice,3,120,18,0,1.53,2,1,61.6,1.4
+Chicken Adobo Rice,3,121,15,0,3.13,2,0,61.9,2.72
+Lemonade,5,53,34,0,7.81,30,0,81.1,5.83
+Spicy Jalapeno Burger,1,115,8,0,5.21,3,1,54.8,7.57
+French Fries Large,4,67,57,0,8.54,5,0,70.2,6.8
+Chocolate Sundae,6,54,38,0,7.44,14,0,70.3,8.58
+Halo-Halo Special,6,90,18,0,2.31,5,1,66.6,2.71
+Sisig Rice Bowl,3,119,23,0,6.57,2,0,57.9,7.47
+Hot Coffee,5,49,20,0,3.05,60,0,79.6,2.86
+Bacon Deluxe,1,158,35,0,7.45,3,0,57.0,5.42
+Sisig Rice Bowl,3,116,23,0,2.48,2,0,57.1,2.3
+Halo-Halo Special,6,89,0,0,4.17,5,0,66.4,4.27
+French Fries Regular,4,50,41,0,4.8,5,0,71.8,4.09
+Chocolate Sundae,6,51,50,0,7.64,14,0,68.7,9.12
+Crispy Chicken 2pc,2,162,112,0,22.61,2,0,50.8,19.34
+Chocolate Sundae,6,49,56,0,6.27,14,0,67.2,3.32
+Hot Coffee,5,46,63,0,11.61,60,0,78.4,9.25
+Chicken Sandwich,2,107,10,0,5.12,3,0,59.0,4.09
+French Fries Large,4,73,44,0,8.42,5,1,72.5,9.69
+Mashed Potato,4,44,15,0,2.15,3,1,66.2,2.35
+Bottled Water,5,25,20,1,1.93,180,0,72.2,1.59
+Mushroom Swiss,1,133,23,0,2.71,3,0,56.3,4.0
+Pork Tonkatsu Rice,3,131,22,0,4.06,2,0,57.1,4.84
+Mushroom Swiss,1,142,22,0,3.72,3,0,59.1,5.29
+Chicken Adobo Rice,3,114,37,0,11.12,2,1,59.5,11.78
+Crispy Chicken 2pc,2,162,48,0,11.66,2,0,50.7,8.83
+Bacon Deluxe,1,160,9,0,2.26,3,1,57.5,1.94
+Onion Rings,4,62,10,0,5.53,4,0,70.8,7.01
+Chicken Tenders 6pc,2,156,12,0,2.48,2,1,57.7,3.73
+Buffalo Wings 6pc,2,148,7,0,5.04,2,1,51.3,6.81
+Iced Tea Regular,5,41,44,0,13.3,30,0,80.7,7.33
+Halo-Halo Special,6,93,14,3,1.65,5,1,67.9,2.58
+Mushroom Swiss,1,125,15,0,2.78,3,0,53.5,2.35
+Chocolate Sundae,6,47,50,0,4.68,14,0,66.1,5.29
+Mashed Potato,4,50,8,0,3.99,3,0,70.0,3.82
+Iced Tea Regular,5,42,1,0,4.39,30,0,81.0,4.92
+Coleslaw,4,43,7,0,0.81,3,1,71.9,0.7
+Crispy Chicken 2pc,2,164,91,0,13.67,2,0,51.2,15.45
+Mushroom Swiss,1,137,22,0,2.99,3,1,57.7,3.54
+Chicken Adobo Rice,3,110,16,0,7.8,2,1,58.0,7.89
+French Fries Regular,4,50,54,0,13.58,5,0,72.2,11.52
+Hot Coffee,5,50,59,0,10.89,60,0,80.0,11.76
+Hi-King Burger,1,95,27,0,11.82,3,0,59.9,8.47
+Apple Pie,6,42,21,0,6.45,7,1,64.5,9.23
+Coleslaw,4,38,8,0,2.1,3,1,68.6,4.0
+Iced Tea Regular,5,43,90,0,11.95,30,0,81.2,12.7
+Hi-King Burger,1,85,38,0,24.17,3,1,55.5,44.42
+Buffalo Wings 6pc,2,169,14,1,3.96,2,1,57.4,3.66
+Mushroom Swiss,1,140,11,0,1.65,3,0,58.7,1.44
+Double Hi-King,1,152,45,0,6.4,3,0,59.1,4.67
+Double Hi-King,1,138,131,0,16.63,3,0,55.2,18.65
+Cola Regular,5,39,0,0,5.44,60,0,76.7,5.44
+Chocolate Sundae,6,51,27,0,5.69,14,0,68.4,4.36
+Hot Coffee,5,45,47,0,4.82,60,1,78.0,5.0
+Halo-Halo Special,6,89,13,1,0.87,5,0,66.4,0.95
+Chicken Sandwich,2,108,33,0,3.99,3,0,59.1,3.49
+Chicken Tenders 6pc,2,148,39,0,3.42,2,0,55.5,3.65
+Lemonade,5,50,26,0,2.32,30,0,79.9,2.28
+Burger Steak Rice,3,98,15,0,3.89,2,0,57.0,3.12
+Bottled Water,5,25,30,0,3.1,180,1,71.6,3.6
+Burger Steak Rice,3,110,42,0,8.98,2,0,62.0,9.69
+Onion Rings,4,65,23,0,4.08,4,1,72.2,4.85
+Double Hi-King,1,149,266,0,25.67,3,1,58.4,41.49
+Buffalo Wings 6pc,2,162,89,0,10.16,2,0,55.6,8.78
+Double Hi-King,1,135,47,0,6.24,3,0,54.2,5.88
+Buffalo Wings 6pc,2,162,42,0,7.06,2,0,55.6,10.52
+Iced Tea Large,5,61,4,0,10.95,30,0,81.9,9.91
+Mushroom Swiss,1,121,27,0,4.13,3,0,51.9,3.66
+Chicken Adobo Rice,3,120,62,0,9.93,2,0,61.8,7.29
+Cheese Burger,1,78,24,0,6.83,3,0,57.8,8.54
+Chicken Adobo Rice,3,105,74,0,7.43,2,0,56.3,5.97
+Bottled Water,5,24,12,0,1.6,180,0,70.3,1.24
+Bottled Water,5,25,36,0,3.85,180,0,71.5,3.42
+Spicy Jalapeno Burger,1,112,17,0,3.43,3,0,53.7,2.77
+Mozzarella Sticks,4,79,18,0,8.89,5,0,61.8,9.3
+Hi-King Burger,1,97,0,0,10.14,3,0,60.9,6.9
+Cola Regular,5,38,32,0,4.34,60,0,76.4,5.1
+Apple Pie,6,43,71,0,7.4,7,0,65.0,6.3
+Spicy Jalapeno Burger,1,110,35,0,4.67,3,0,52.7,6.53
+French Fries Regular,4,50,185,0,25.07,5,0,71.9,13.11
+Onion Rings,4,60,10,0,1.64,4,0,70.2,1.7
+Mashed Potato,4,42,27,0,3.5,3,1,64.4,3.65
+Double Hi-King,1,142,45,0,10.07,3,0,56.3,10.76
+Crispy Chicken 2pc,2,162,54,0,6.79,2,0,50.7,7.28
+Chicken Adobo Rice,3,110,44,0,5.81,2,0,58.2,7.26
+Bacon Deluxe,1,140,46,0,6.36,3,0,51.4,5.14
+Sisig Rice Bowl,3,126,29,0,4.47,2,0,60.2,3.76
+Chicken Tenders 6pc,2,162,70,0,9.6,2,0,59.3,6.56
+Crispy Chicken 1pc,2,97,83,0,12.99,2,0,56.8,12.29
+Iced Tea Large,5,59,42,0,5.94,30,0,81.4,5.08
+Onion Rings,4,58,10,0,3.72,4,0,69.2,4.85
+Buffalo Wings 6pc,2,166,18,0,4.82,2,1,56.7,4.76
+Coleslaw,4,41,16,0,2.4,3,0,71.1,2.12
+Onion Rings,4,64,21,1,2.3,4,1,71.7,2.84
+Hot Coffee,5,42,9,0,4.85,60,0,76.3,4.37
+Coleslaw,4,38,15,0,1.96,3,0,68.1,1.66
+Sisig Rice Bowl,3,111,16,0,3.78,2,1,54.8,4.57
+French Fries Regular,4,52,49,0,17.74,5,0,72.9,15.08
+Halo-Halo Special,6,94,29,0,2.49,5,1,68.2,2.23
+Lemonade,5,46,11,1,2.91,30,0,78.1,2.23
+French Fries Large,4,70,66,0,11.4,5,0,71.5,13.3
+Lemonade,5,53,1,0,3.34,30,1,81.1,2.78
+Sisig Rice Bowl,3,123,47,0,8.58,2,0,59.3,7.24
+Coleslaw,4,43,16,0,1.12,3,0,72.0,1.05
+Mushroom Swiss,1,139,41,0,7.9,3,0,58.2,7.55
+Bottled Water,5,24,17,0,2.82,180,0,70.6,3.0
+French Fries Large,4,70,31,0,4.89,5,0,71.3,3.27
+Chicken Tenders 6pc,2,154,46,0,8.72,2,0,57.3,6.1
+Onion Rings,4,57,48,0,8.01,4,1,68.7,10.38
+Halo-Halo Special,6,93,16,0,2.81,5,1,67.6,4.02
+Buffalo Wings 6pc,2,164,34,0,4.58,2,0,56.1,4.24
+Lemonade,5,53,35,0,4.26,30,0,81.0,4.42
+Crispy Chicken 2pc,2,163,61,0,7.04,2,0,50.9,7.6
+Apple Pie,6,47,16,0,2.16,7,0,67.9,2.87
+Hi-King Burger,1,94,63,0,20.02,3,0,59.6,17.26
+Chocolate Sundae,6,49,9,0,8.34,14,0,67.3,9.73
+Mozzarella Sticks,4,76,21,0,2.63,5,0,60.4,2.47
+Mushroom Swiss,1,119,18,0,1.86,3,1,51.4,2.55
+Hi-King Burger,1,98,137,0,12.98,3,1,61.1,17.94
+Cheese Burger,1,88,89,0,15.9,3,0,62.5,15.45
+Chicken Adobo Rice,3,119,3,0,2.11,2,1,61.3,2.66
+Mashed Potato,4,42,36,0,6.47,3,0,63.9,5.86
+Apple Pie,6,45,33,0,5.57,7,0,66.4,5.13
+Lemonade,5,54,58,0,5.68,30,0,81.5,6.16
+Mushroom Swiss,1,143,27,0,4.08,3,0,59.5,4.9
+Double Hi-King,1,144,41,0,5.35,3,1,56.9,6.81
+Bottled Water,5,24,7,0,3.38,180,1,71.1,3.79
+Crispy Chicken 2pc,2,179,0,0,11.22,2,1,55.3,13.72
+Pork Tonkatsu Rice,3,132,17,0,3.27,2,0,57.5,2.59
+Sisig Rice Bowl,3,120,22,0,6.9,2,0,58.5,8.6
+French Fries Large,4,64,34,0,5.11,5,0,69.0,6.03
+Iced Tea Regular,5,40,141,0,22.88,30,1,79.9,28.11
+Pork Tonkatsu Rice,3,140,22,0,1.66,2,0,60.0,2.95
+Burger Steak Rice,3,111,98,0,12.72,2,0,62.0,12.44
+Mozzarella Sticks,4,78,6,0,2.19,5,1,61.4,2.91
+Chicken Sandwich,2,92,36,0,7.49,3,1,52.0,6.5
+Cola Regular,5,43,19,0,6.95,60,0,79.0,6.01
+Apple Pie,6,46,38,0,8.18,7,0,67.2,7.7
+Chicken Sandwich,2,93,25,0,7.81,3,1,52.5,8.49
+Chicken Sandwich,2,101,26,0,6.49,3,0,56.6,6.69
+Crispy Chicken 2pc,2,181,35,0,3.86,2,1,55.8,5.59
+Chicken Sandwich,2,93,4,0,17.33,3,0,52.5,16.09
+Pork Tonkatsu Rice,3,140,6,1,3.11,2,1,60.0,3.38
+Chocolate Sundae,6,54,16,0,6.31,14,0,70.1,5.7
+Onion Rings,4,63,92,0,13.57,4,0,71.4,16.3
+Onion Rings,4,58,19,0,7.68,4,1,69.0,12.9
+Chicken Sandwich,2,101,40,0,6.66,3,1,56.6,9.83
+Spicy Jalapeno Burger,1,113,8,0,2.85,3,0,53.8,2.4
+Hot Coffee,5,50,9,0,4.35,60,0,79.9,4.66
+Bacon Deluxe,1,164,51,0,10.61,3,0,58.5,6.92
+Crispy Chicken 2pc,2,188,50,0,7.38,2,0,57.4,7.87
+Mashed Potato,4,47,10,1,2.19,3,0,68.0,2.16
+Hot Coffee,5,43,35,0,6.13,60,0,76.7,4.94
+Double Hi-King,1,138,10,0,41.04,3,0,54.9,50.55
+Cola Regular,5,41,28,0,3.41,60,0,77.8,3.56
+Spicy Jalapeno Burger,1,117,19,0,1.98,3,0,55.4,1.97
+Burger Steak Rice,3,110,50,0,7.01,2,1,61.7,8.95
+Iced Tea Large,5,58,28,0,5.63,30,0,81.1,8.98
+Crispy Chicken 1pc,2,104,24,0,11.59,2,0,59.6,10.45
+Chicken Adobo Rice,3,109,42,0,3.96,2,0,57.7,4.56
+Double Hi-King,1,133,23,0,4.79,3,1,53.5,4.1
+Halo-Halo Special,6,86,0,1,1.48,5,0,65.1,2.03
+Lemonade,5,46,21,0,3.82,30,0,78.5,3.61
+Sisig Rice Bowl,3,114,57,0,7.52,2,0,56.0,5.21
+Buffalo Wings 6pc,2,149,7,0,3.11,2,0,51.5,2.92
+Buffalo Wings 6pc,2,163,19,0,3.0,2,0,55.9,3.02
+Onion Rings,4,61,21,0,4.11,4,0,70.5,5.99
+Crispy Chicken 1pc,2,94,113,0,22.31,2,0,55.2,18.66
+Chocolate Sundae,6,45,33,0,6.71,14,0,64.7,6.06
+Mushroom Swiss,1,120,8,0,2.16,3,0,51.5,1.52
+Chicken Adobo Rice,3,120,13,1,3.34,2,0,61.8,1.76
+Hot Coffee,5,49,0,0,2.55,60,1,79.5,2.56
+Mashed Potato,4,47,8,0,2.29,3,1,67.9,3.11
+Chicken Tenders 6pc,2,153,9,0,2.09,2,0,56.9,1.47
+Apple Pie,6,46,48,0,11.8,7,0,67.2,12.6
+Crispy Chicken 2pc,2,183,37,0,4.5,2,0,56.3,3.23
+Halo-Halo Special,6,93,15,0,3.52,5,0,67.7,3.09
+Double Hi-King,1,136,144,0,15.9,3,0,54.5,11.53
+Bacon Deluxe,1,148,53,0,4.01,3,0,54.0,3.88
+Hot Coffee,5,47,66,0,9.94,60,0,78.8,12.21
+Bottled Water,5,25,11,0,6.0,180,0,71.7,4.75
+Lemonade,5,46,0,0,2.28,30,0,78.4,1.5
+French Fries Large,4,68,76,0,21.08,5,1,70.7,22.84
+Cheese Burger,1,81,68,0,13.43,3,1,59.4,12.5
+Halo-Halo Special,6,98,27,0,4.62,5,0,69.4,2.7
+Mozzarella Sticks,4,88,0,0,3.54,5,0,65.9,2.18
+Cola Regular,5,42,42,0,10.41,60,0,78.8,12.47
+Bacon Deluxe,1,149,6,0,2.58,3,1,54.4,2.57
+Bacon Deluxe,1,157,71,0,13.22,3,0,56.6,12.58
+Pork Tonkatsu Rice,3,144,5,0,4.41,2,0,61.0,4.19
+Chicken Tenders 6pc,2,145,33,0,3.53,2,0,54.4,3.8
+Chicken Adobo Rice,3,105,26,0,4.91,2,0,56.4,4.1
+Lemonade,5,52,17,0,3.7,30,0,80.9,3.0
+Halo-Halo Special,6,95,29,0,2.92,5,0,68.6,3.2
+Cheese Burger,1,81,23,0,6.81,3,1,59.0,9.53
+Burger Steak Rice,3,103,46,0,6.08,2,0,59.3,6.48
+Double Hi-King,1,139,71,0,16.38,3,1,55.5,22.64
+Crispy Chicken 1pc,2,102,44,0,9.27,2,1,58.8,8.64
+Halo-Halo Special,6,93,15,0,1.87,5,0,67.8,2.91
+Hi-King Burger,1,96,69,0,10.02,3,1,60.4,9.43
+Lemonade,5,47,33,0,3.5,30,0,78.7,4.2
+Mushroom Swiss,1,122,0,0,1.84,3,0,52.5,1.3
+Mozzarella Sticks,4,74,16,0,2.84,5,0,59.4,3.97
+Chicken Sandwich,2,111,53,0,8.75,3,0,60.2,10.03
+Mozzarella Sticks,4,80,28,0,3.2,5,1,62.3,3.04
+Onion Rings,4,57,48,0,4.97,4,1,68.6,7.39
+Crispy Chicken 1pc,2,103,42,0,14.18,2,0,59.3,12.2
+Cola Regular,5,43,74,0,12.77,60,0,78.9,13.99
+Iced Tea Regular,5,37,71,0,13.88,30,0,78.5,11.15
+Cheese Burger,1,88,69,0,12.65,3,1,62.6,15.72
+Onion Rings,4,60,13,0,7.0,4,0,70.1,7.16
+Spicy Jalapeno Burger,1,129,32,0,4.57,3,0,59.6,4.72
+Cheese Burger,1,83,112,0,18.51,3,0,60.1,14.6
+Chocolate Sundae,6,45,52,0,7.48,14,0,64.6,7.82
+Hot Coffee,5,45,42,0,7.13,60,0,77.6,8.03
+Chicken Tenders 6pc,2,145,17,0,9.24,2,0,54.4,9.22
+French Fries Large,4,65,45,0,6.83,5,0,69.1,8.38
+Halo-Halo Special,6,99,5,0,1.03,5,1,69.7,1.29
+Chicken Sandwich,2,106,2,1,2.93,3,1,58.5,5.73
+Halo-Halo Special,6,95,30,0,4.31,5,1,68.5,4.08
+Onion Rings,4,65,30,0,8.55,4,0,72.2,7.45
+Halo-Halo Special,6,87,8,0,3.62,5,0,65.4,4.4
+Iced Tea Regular,5,42,82,0,16.21,30,1,81.1,14.37
+Halo-Halo Special,6,90,26,1,2.72,5,0,66.6,1.88
+Burger Steak Rice,3,100,52,0,6.86,2,1,57.8,5.92
+Cola Regular,5,40,68,0,14.53,60,0,77.7,10.69
+French Fries Large,4,77,61,0,14.01,5,1,74.1,16.39
+Pork Tonkatsu Rice,3,132,16,0,2.86,2,0,57.7,3.08
+Pork Tonkatsu Rice,3,119,49,0,3.33,2,1,52.9,3.09
+Onion Rings,4,58,13,0,2.61,4,0,69.0,2.66
+Pork Tonkatsu Rice,3,133,43,0,6.64,2,0,57.8,5.87
+Cheese Burger,1,83,11,0,10.92,3,0,60.4,11.29
+Burger Steak Rice,3,94,23,0,6.75,2,0,55.1,4.36
+Crispy Chicken 1pc,2,104,21,0,6.77,2,0,59.6,6.71
+French Fries Large,4,65,87,0,19.94,5,0,69.4,18.89
+Lemonade,5,45,11,0,8.14,30,0,77.9,7.58
+Lemonade,5,53,15,0,8.87,30,0,81.2,8.74
+Crispy Chicken 2pc,2,166,23,0,5.2,2,0,51.8,4.67
+Chicken Adobo Rice,3,110,32,0,5.16,2,0,58.4,4.46
+Pork Tonkatsu Rice,3,129,23,0,2.52,2,1,56.7,2.68
+Crispy Chicken 2pc,2,162,31,0,3.99,2,0,50.5,2.67
+Bacon Deluxe,1,150,10,0,2.9,3,0,54.7,4.0
+Chicken Sandwich,2,108,0,0,7.89,3,0,59.1,8.68
+French Fries Regular,4,45,55,0,10.02,5,1,69.1,10.16
+Lemonade,5,49,20,0,7.13,30,0,79.7,6.55
+Chicken Tenders 6pc,2,141,6,0,1.99,2,0,53.3,2.31
+Bacon Deluxe,1,144,32,0,5.84,3,0,52.8,6.65
+Mashed Potato,4,47,12,0,1.37,3,0,68.4,1.2
+Crispy Chicken 2pc,2,193,58,0,11.71,2,0,58.6,15.61
+Hi-King Burger,1,95,34,0,7.02,3,1,60.2,8.0
+French Fries Large,4,64,38,0,8.55,5,1,68.5,5.83
+Crispy Chicken 2pc,2,172,9,0,2.2,2,1,53.6,2.27
+Mashed Potato,4,46,5,0,2.78,3,0,67.1,2.2
+Iced Tea Regular,5,42,408,0,74.43,30,0,81.0,52.62
+Iced Tea Large,5,56,102,0,9.49,30,0,80.3,13.33
+Halo-Halo Special,6,92,4,0,3.65,5,0,67.4,2.52
+Bottled Water,5,27,12,0,3.22,180,1,73.6,2.88
+Mashed Potato,4,45,25,0,3.15,3,0,66.4,3.28
+Buffalo Wings 6pc,2,157,14,0,1.54,2,0,54.1,1.09
+Burger Steak Rice,3,106,38,0,22.12,2,0,60.2,19.43
+Buffalo Wings 6pc,2,169,38,0,4.59,2,0,57.4,5.48
+Lemonade,5,49,24,0,2.41,30,0,79.5,3.58
+Lemonade,5,49,22,0,3.25,30,0,79.5,2.86
+Burger Steak Rice,3,100,8,0,5.62,2,0,57.8,4.12
+French Fries Regular,4,51,28,0,5.39,5,1,72.4,6.2
+Chicken Tenders 6pc,2,150,49,0,8.55,2,0,55.9,8.28
+French Fries Large,4,71,30,0,7.5,5,0,71.7,5.23
+Hi-King Burger,1,92,9,0,5.61,3,0,58.5,6.79
+Spicy Jalapeno Burger,1,120,0,0,3.4,3,0,56.7,3.17
+Cola Regular,5,43,107,0,19.9,60,0,79.1,19.3
+Crispy Chicken 1pc,2,90,73,0,18.01,2,0,53.3,13.47
+Double Hi-King,1,148,44,0,7.98,3,0,58.2,8.99
+Cola Regular,5,36,68,0,17.73,60,0,74.9,10.6
+Hot Coffee,5,50,18,0,4.62,60,0,80.1,3.38
+Cola Regular,5,40,34,0,8.05,60,1,77.6,11.0
+Crispy Chicken 1pc,2,103,71,0,11.2,2,1,59.4,14.41
+Chicken Adobo Rice,3,115,8,0,4.7,2,0,60.1,4.1
+Pork Tonkatsu Rice,3,132,13,0,3.55,2,0,57.5,5.06
+Chocolate Sundae,6,49,90,0,12.97,14,0,67.6,11.66
+Cheese Burger,1,86,63,0,12.7,3,1,61.7,14.67
+Spicy Jalapeno Burger,1,125,5,0,4.69,3,0,58.5,4.15
+Hot Coffee,5,49,11,0,2.4,60,0,79.8,3.48
+Chicken Sandwich,2,110,57,0,5.98,3,0,59.8,4.3
+Mushroom Swiss,1,137,28,0,2.15,3,0,57.6,2.16
+Hi-King Burger,1,84,72,0,15.31,3,0,54.8,15.36
+Chicken Adobo Rice,3,104,2,0,3.91,2,1,56.0,4.06
+Cola Regular,5,44,167,0,15.62,60,0,79.4,12.82
+Bacon Deluxe,1,161,11,0,3.8,3,1,57.6,4.45
+Bacon Deluxe,1,139,69,0,17.71,3,0,51.0,19.58
+French Fries Regular,4,46,51,0,9.23,5,1,69.8,14.31
+Bacon Deluxe,1,146,47,0,8.07,3,1,53.4,11.47
+Pork Tonkatsu Rice,3,135,0,0,1.36,2,0,58.6,1.24
+Iced Tea Regular,5,43,52,0,17.01,30,0,81.6,16.87
+Pork Tonkatsu Rice,3,121,20,0,3.15,2,0,53.8,2.97
+Lemonade,5,54,28,0,7.54,30,0,81.4,8.61
+Mashed Potato,4,47,30,0,5.6,3,0,68.1,3.67
+Halo-Halo Special,6,84,10,0,2.09,5,1,64.1,2.04
+Spicy Jalapeno Burger,1,112,31,1,3.57,3,0,53.7,4.03
+Crispy Chicken 2pc,2,185,0,0,4.13,2,1,56.8,4.26
+Crispy Chicken 2pc,2,179,42,0,6.83,2,0,55.4,5.55
+Chicken Tenders 6pc,2,149,17,0,5.0,2,1,55.7,6.84
+Chicken Adobo Rice,3,107,0,0,4.4,2,1,57.0,6.04
+Mashed Potato,4,45,0,0,3.43,3,0,66.7,3.61
+Cheese Burger,1,82,154,0,24.34,3,0,59.9,15.76
+Crispy Chicken 1pc,2,94,14,0,6.26,2,0,55.4,8.44
+Cola Regular,5,37,41,0,12.27,60,0,75.4,13.02
+Chicken Tenders 6pc,2,142,33,0,5.8,2,1,53.5,9.26
+Spicy Jalapeno Burger,1,118,19,0,2.89,3,0,55.8,3.0
+Sisig Rice Bowl,3,128,21,0,3.1,2,0,61.0,2.56
+Mozzarella Sticks,4,88,23,0,3.22,5,1,65.7,3.89
+Onion Rings,4,56,8,0,4.82,4,0,68.0,5.97
+Hot Coffee,5,42,0,0,1.59,60,0,76.1,1.88
+Onion Rings,4,57,29,0,2.58,4,0,68.4,3.21
+French Fries Large,4,66,46,0,12.29,5,0,69.5,11.47
+Crispy Chicken 2pc,2,163,17,0,3.26,2,0,50.8,3.98
+Chicken Tenders 6pc,2,150,8,0,2.26,2,1,56.0,5.44
+Mozzarella Sticks,4,73,2,0,1.87,5,0,59.1,1.04
+Buffalo Wings 6pc,2,155,17,0,2.76,2,1,53.7,2.43
+Mashed Potato,4,48,2,0,4.16,3,1,68.7,4.9
+Chicken Adobo Rice,3,112,25,0,6.56,2,0,59.0,5.74
+Lemonade,5,55,19,0,3.09,30,0,81.7,2.38
+Apple Pie,6,45,87,0,8.67,7,0,66.6,10.36
+Mozzarella Sticks,4,76,17,1,1.96,5,0,60.6,1.58
+Crispy Chicken 2pc,2,171,80,0,15.17,2,1,53.2,18.78
+Lemonade,5,55,14,0,3.87,30,0,81.7,3.36
+Crispy Chicken 2pc,2,181,27,0,2.96,2,0,55.7,3.25
+Bottled Water,5,25,38,1,2.37,180,0,71.8,1.99
+Mashed Potato,4,43,0,0,1.41,3,0,65.5,1.0
+Double Hi-King,1,147,57,0,6.59,3,0,57.8,4.43
+Pork Tonkatsu Rice,3,123,52,0,5.16,2,1,54.6,4.94
+Cheese Burger,1,76,28,0,7.1,3,0,56.8,6.31
+Cheese Burger,1,88,25,0,3.1,3,0,62.6,4.37
+Cola Regular,5,42,53,0,6.5,60,0,78.6,8.5
+Onion Rings,4,58,0,0,1.02,4,0,69.0,0.79
+Lemonade,5,46,51,0,8.47,30,0,78.1,7.75
+Cheese Burger,1,80,40,0,10.0,3,0,59.0,6.34
+Crispy Chicken 2pc,2,166,23,0,9.93,2,0,51.8,10.65
+Double Hi-King,1,138,87,0,13.43,3,0,55.0,12.62
+Bottled Water,5,24,24,0,2.76,180,0,70.5,2.0
+Hi-King Burger,1,89,18,0,22.11,3,0,57.1,25.92
+Bacon Deluxe,1,151,32,0,5.38,3,0,54.9,5.01
+Spicy Jalapeno Burger,1,124,28,0,2.75,3,0,58.0,2.7
+Double Hi-King,1,154,23,0,13.0,3,0,59.8,12.54
+Halo-Halo Special,6,84,9,1,1.8,5,0,64.3,2.06
+Mushroom Swiss,1,135,2,0,3.21,3,1,57.0,3.14
+Cola Regular,5,43,32,0,5.13,60,0,79.3,6.29
+Mushroom Swiss,1,131,23,0,4.21,3,0,55.6,4.71
+Hi-King Burger,1,83,131,0,19.75,3,0,54.1,15.16
+Chocolate Sundae,6,51,49,0,8.56,14,0,68.9,6.81
+Coleslaw,4,39,30,0,3.32,3,0,69.1,3.81
+Apple Pie,6,46,136,0,17.36,7,0,67.3,16.04
+Coleslaw,4,43,38,0,3.54,3,0,72.1,3.86
+Spicy Jalapeno Burger,1,115,10,0,2.03,3,0,54.7,1.37
+Apple Pie,6,50,8,0,2.03,7,1,70.2,2.12
+Lemonade,5,48,19,0,4.2,30,0,79.4,3.9
+Crispy Chicken 2pc,2,162,40,0,5.34,2,0,50.7,6.2
+Mozzarella Sticks,4,84,6,0,2.52,5,0,64.3,3.75
+Crispy Chicken 2pc,2,182,19,0,5.41,2,0,55.9,5.03
+Bottled Water,5,25,3,0,14.54,180,0,72.0,13.21
+Chocolate Sundae,6,48,59,0,6.9,14,0,66.5,6.84
+Coleslaw,4,39,106,0,10.72,3,0,69.4,7.72
+Chicken Tenders 6pc,2,144,0,0,2.11,2,0,54.1,2.68
+Coleslaw,4,41,4,0,2.63,3,0,70.6,2.99
+Buffalo Wings 6pc,2,175,12,0,2.76,2,0,59.0,2.37
+Cheese Burger,1,85,72,0,14.43,3,0,61.2,14.67
+Crispy Chicken 2pc,2,190,18,0,4.03,2,0,57.8,5.21
+Cola Regular,5,37,84,0,14.72,60,0,75.8,17.86
+Chicken Adobo Rice,3,108,23,0,8.17,2,1,57.3,7.97
+Double Hi-King,1,151,63,0,17.03,3,0,59.0,10.94
+Lemonade,5,50,40,0,5.39,30,1,79.9,5.13
+Iced Tea Large,5,59,35,0,5.3,30,0,81.2,4.13
+Cola Regular,5,36,49,0,12.19,60,1,75.1,13.25
+Crispy Chicken 1pc,2,100,27,0,12.43,2,1,58.1,23.45
+Hot Coffee,5,46,69,0,12.98,60,1,78.0,13.85
+Hi-King Burger,1,86,82,0,9.78,3,1,55.8,9.39
+Chicken Sandwich,2,108,37,0,8.25,3,1,59.2,12.28
+Mashed Potato,4,44,13,1,1.89,3,0,66.3,2.31
+Onion Rings,4,57,62,0,5.9,4,0,68.2,5.45
+Coleslaw,4,42,25,0,3.83,3,0,71.4,3.85
+Chocolate Sundae,6,48,85,0,13.1,14,0,66.8,14.45
+Bottled Water,5,24,8,0,4.74,180,1,70.6,5.63
+Crispy Chicken 1pc,2,102,102,0,21.68,2,0,58.8,24.16
+Bacon Deluxe,1,158,42,0,13.0,3,1,56.9,18.33
+Coleslaw,4,44,3,2,0.69,3,0,72.4,0.62
+Hi-King Burger,1,96,25,0,5.71,3,0,60.4,8.24
+Mozzarella Sticks,4,76,24,0,2.79,5,0,60.8,2.55
+Burger Steak Rice,3,108,48,0,27.46,2,0,61.1,26.03
+Onion Rings,4,66,16,0,1.78,4,0,72.6,2.12
+Chicken Tenders 6pc,2,142,51,0,23.14,2,0,53.4,15.12
+Hot Coffee,5,46,22,0,3.61,60,0,78.3,2.39
+Bottled Water,5,27,26,0,3.75,180,1,74.1,2.95
+Double Hi-King,1,143,26,0,5.65,3,0,56.6,5.61
+Onion Rings,4,58,21,0,2.93,4,0,68.8,2.47
+Hot Coffee,5,45,17,0,3.15,60,0,77.9,4.32
+Crispy Chicken 1pc,2,90,101,0,15.37,2,1,53.5,15.8
+Chicken Sandwich,2,109,52,0,6.67,3,0,59.7,8.41
+Apple Pie,6,43,0,0,4.8,7,0,65.4,6.89
+Iced Tea Large,5,55,70,0,10.32,30,0,80.0,14.66
+Halo-Halo Special,6,90,35,0,3.54,5,0,66.5,2.09
+Apple Pie,6,44,93,0,15.0,7,1,66.2,15.64
+Mozzarella Sticks,4,82,44,0,4.82,5,1,63.3,6.02
+Hot Coffee,5,50,28,0,4.86,60,0,79.9,4.96
+Chocolate Sundae,6,51,98,0,28.44,14,0,68.6,31.42
+Chicken Adobo Rice,3,108,53,0,21.72,2,1,57.6,26.85
+Double Hi-King,1,143,22,0,4.28,3,0,56.5,4.57
+Lemonade,5,51,45,0,4.9,30,1,80.5,6.78
+Bacon Deluxe,1,158,46,0,3.93,3,1,57.1,4.86
+Iced Tea Large,5,51,30,0,4.78,30,0,78.5,3.6
+Hi-King Burger,1,87,45,0,6.85,3,1,56.4,6.21
+Onion Rings,4,55,77,0,23.77,4,1,67.3,20.43
+Halo-Halo Special,6,99,4,1,1.93,5,0,69.7,2.1
+Iced Tea Regular,5,40,200,0,31.29,30,0,80.1,29.31
+Chicken Tenders 6pc,2,154,49,0,8.02,2,0,57.3,7.73
+Crispy Chicken 2pc,2,163,17,0,2.72,2,0,50.9,2.27
+Cheese Burger,1,86,175,0,29.04,3,1,61.5,40.98
+French Fries Large,4,74,1,0,5.49,5,1,72.9,5.92
+Apple Pie,6,42,29,0,5.75,7,0,64.6,5.89
+Crispy Chicken 1pc,2,104,110,0,20.08,2,0,59.6,18.82
+Buffalo Wings 6pc,2,161,75,0,17.34,2,0,55.3,14.95
+Hi-King Burger,1,84,34,0,7.55,3,1,54.9,6.42
+French Fries Regular,4,54,135,0,16.85,5,1,73.9,21.65
+Bacon Deluxe,1,166,38,0,5.27,3,0,59.1,4.89
+Mashed Potato,4,49,7,1,3.58,3,0,69.2,3.13
+Chicken Tenders 6pc,2,159,37,0,7.15,2,1,58.4,5.81
+Chicken Tenders 6pc,2,155,60,0,12.65,2,0,57.3,14.32
+Onion Rings,4,61,25,0,4.18,4,0,70.7,3.27
+Chicken Adobo Rice,3,117,16,0,2.67,2,0,60.7,1.79
+Bacon Deluxe,1,138,37,0,12.64,3,0,50.8,14.15
+Sisig Rice Bowl,3,132,38,0,6.25,2,0,62.3,5.23
+French Fries Regular,4,50,33,0,4.39,5,0,71.8,3.39
+Cheese Burger,1,73,46,0,11.94,3,0,55.1,7.98
+Sisig Rice Bowl,3,122,0,0,2.91,2,0,59.2,2.28
+French Fries Regular,4,54,42,0,8.32,5,0,74.0,6.19
+Bottled Water,5,27,25,0,3.17,180,0,73.6,3.0
+Onion Rings,4,65,33,1,4.38,4,0,72.4,4.84
+Lemonade,5,52,32,0,5.7,30,0,81.0,5.73
+Onion Rings,4,59,5,0,2.27,4,0,69.2,1.9
+Double Hi-King,1,143,67,0,5.3,3,1,56.7,4.32
+Crispy Chicken 2pc,2,191,64,0,8.67,2,0,58.1,9.96
+Apple Pie,6,45,41,0,3.8,7,0,67.0,2.41
+Halo-Halo Special,6,96,9,2,0.93,5,0,68.7,0.91
+Spicy Jalapeno Burger,1,122,12,2,1.12,3,1,57.5,1.35
+Buffalo Wings 6pc,2,150,32,0,10.87,2,1,51.9,8.4
+Burger Steak Rice,3,107,27,0,3.73,2,0,60.8,3.29
+Iced Tea Large,5,61,19,0,3.91,30,0,81.8,3.58
+Bacon Deluxe,1,165,10,0,9.25,3,0,58.7,8.76
+Cheese Burger,1,81,137,0,23.55,3,0,59.5,20.36
+Halo-Halo Special,6,83,19,1,3.24,5,1,63.7,4.18
+Apple Pie,6,45,58,0,9.92,7,0,67.0,8.17
+Iced Tea Large,5,55,27,0,14.8,30,0,79.9,19.65
+Crispy Chicken 1pc,2,91,50,0,7.1,2,0,54.1,5.94
+Spicy Jalapeno Burger,1,110,8,0,2.96,3,1,52.6,3.56
+Chicken Sandwich,2,105,86,0,10.99,3,0,58.1,12.52
+Buffalo Wings 6pc,2,178,0,0,2.17,2,1,59.5,2.83
+Chicken Adobo Rice,3,103,45,0,7.46,2,1,55.5,9.92
+Iced Tea Large,5,61,15,0,2.39,30,0,82.0,1.76
+Iced Tea Large,5,60,21,0,4.09,30,0,81.6,2.58
+Chicken Sandwich,2,110,109,0,15.75,3,1,59.9,23.28
+Lemonade,5,49,33,1,5.18,30,1,79.7,5.87
+Apple Pie,6,45,42,0,4.18,7,0,66.5,2.66
+Mashed Potato,4,45,45,0,4.42,3,0,66.4,4.3
+Burger Steak Rice,3,93,57,0,6.06,2,0,54.9,6.66
+Cola Regular,5,37,51,0,9.51,60,0,75.9,8.08
+Apple Pie,6,45,18,0,3.18,7,0,66.7,3.15
+Mushroom Swiss,1,132,0,0,1.97,3,0,55.9,2.16
+Mashed Potato,4,48,78,0,5.72,3,0,68.7,3.98
+Spicy Jalapeno Burger,1,120,15,0,3.89,3,0,56.5,2.8
+Crispy Chicken 1pc,2,89,11,0,10.85,2,0,52.9,10.24
+Iced Tea Large,5,53,16,0,7.96,30,0,79.2,6.05
+Mushroom Swiss,1,120,9,0,3.11,3,0,51.5,3.3
+Double Hi-King,1,151,47,0,6.17,3,0,59.1,6.21
+Double Hi-King,1,155,84,0,9.26,3,0,60.0,7.15
+Buffalo Wings 6pc,2,148,9,0,3.99,2,0,51.3,4.05
+Chicken Tenders 6pc,2,163,8,0,1.44,2,0,59.6,1.08
+Mashed Potato,4,45,3,0,2.24,3,0,67.0,2.94
+Hi-King Burger,1,82,19,0,14.36,3,1,53.7,16.05
+Bacon Deluxe,1,154,15,0,6.47,3,0,56.0,5.66
+Burger Steak Rice,3,104,38,0,6.32,2,0,59.6,5.44
+Cheese Burger,1,82,91,0,10.05,3,0,60.0,8.49
+Buffalo Wings 6pc,2,166,11,0,2.82,2,0,56.7,2.9
+Mushroom Swiss,1,139,0,0,1.28,3,1,58.2,2.08
+Mashed Potato,4,44,18,0,3.23,3,0,66.1,3.02
+Cheese Burger,1,88,38,0,8.96,3,0,62.7,7.86
+Double Hi-King,1,146,67,0,8.45,3,1,57.6,9.43
+Chicken Adobo Rice,3,104,26,0,5.31,2,1,55.7,6.84
+French Fries Large,4,72,44,0,11.89,5,0,72.1,11.38
+Chicken Tenders 6pc,2,158,16,0,1.48,2,0,58.1,1.28
+Chicken Tenders 6pc,2,144,9,0,2.91,2,0,54.2,2.58
+Mozzarella Sticks,4,85,30,0,5.05,5,0,64.7,4.92
+Chicken Sandwich,2,101,5,0,3.95,3,0,56.4,3.42
+Hot Coffee,5,43,28,0,4.24,60,0,76.8,3.91
+Hi-King Burger,1,87,64,0,7.96,3,0,56.3,9.71
+Mozzarella Sticks,4,81,21,0,3.42,5,0,62.9,2.92
+Iced Tea Large,5,55,23,0,3.83,30,0,79.9,3.67
+Bottled Water,5,27,8,0,2.36,180,0,74.3,2.17
+Pork Tonkatsu Rice,3,129,27,0,3.59,2,1,56.7,4.34
+Chicken Tenders 6pc,2,149,34,0,4.74,2,0,55.7,4.65
+Hot Coffee,5,46,12,5,1.79,60,0,78.1,2.01
+Bottled Water,5,27,12,0,3.35,180,1,73.7,5.23
+Cola Regular,5,38,19,0,19.03,60,1,76.6,22.97
+Bottled Water,5,25,16,0,3.67,180,0,72.2,3.08
+Crispy Chicken 1pc,2,92,101,0,33.39,2,0,54.1,30.97
+Pork Tonkatsu Rice,3,134,27,0,4.98,2,0,58.3,4.58
+Spicy Jalapeno Burger,1,124,23,0,5.62,3,0,58.1,5.36
+Lemonade,5,47,6,0,2.66,30,0,78.8,2.14
+Lemonade,5,52,23,0,2.73,30,0,80.7,2.2
+Mashed Potato,4,42,12,0,3.44,3,0,64.2,2.5
+Double Hi-King,1,148,71,0,11.68,3,0,58.0,8.62
+Iced Tea Large,5,55,24,0,5.22,30,1,79.9,6.98
+Halo-Halo Special,6,86,5,0,3.19,5,0,65.2,4.8
+Coleslaw,4,42,22,0,1.99,3,0,71.4,1.69
+Bottled Water,5,28,15,0,1.74,180,0,74.9,1.7
+Sisig Rice Bowl,3,126,0,0,2.94,2,1,60.3,2.89
+Mozzarella Sticks,4,76,9,0,8.99,5,1,60.7,10.13
+Sisig Rice Bowl,3,133,23,0,4.48,2,1,62.4,5.14
+Halo-Halo Special,6,88,30,0,6.02,5,0,65.9,4.99
+Halo-Halo Special,6,97,6,0,2.47,5,0,69.1,2.98
+Coleslaw,4,36,21,0,3.7,3,0,67.1,3.88
+Spicy Jalapeno Burger,1,126,0,0,4.59,3,0,58.8,4.64
+French Fries Regular,4,49,53,0,7.13,5,0,71.2,6.26
+Double Hi-King,1,131,8,0,5.0,3,0,52.5,3.75
+Pork Tonkatsu Rice,3,137,0,0,2.59,2,1,59.1,2.71
+Crispy Chicken 2pc,2,182,4,0,7.17,2,0,56.1,4.98
+Double Hi-King,1,154,27,0,17.72,3,0,59.7,20.9
+Hot Coffee,5,50,17,0,3.82,60,1,80.1,3.65
+Buffalo Wings 6pc,2,156,17,1,1.91,2,0,54.0,2.38
+Iced Tea Regular,5,43,165,0,30.07,30,1,81.3,28.5
+Apple Pie,6,43,4,0,5.64,7,0,65.2,5.83
+Hi-King Burger,1,90,119,0,24.58,3,0,57.8,14.13
+Crispy Chicken 1pc,2,89,57,0,17.97,2,0,53.0,11.74
+Chicken Tenders 6pc,2,151,41,0,6.29,2,0,56.2,6.53
+Crispy Chicken 1pc,2,105,6,1,1.96,2,0,60.1,2.24
+Chicken Sandwich,2,104,44,0,6.96,3,0,57.6,6.06
+Chicken Tenders 6pc,2,150,36,0,6.7,2,0,56.0,5.79
+Pork Tonkatsu Rice,3,139,12,0,1.71,2,0,59.8,1.67
+Bacon Deluxe,1,145,43,0,9.2,3,0,53.0,11.71
+Mozzarella Sticks,4,87,17,0,3.7,5,0,65.6,5.98
+Hi-King Burger,1,84,32,0,10.54,3,1,54.5,14.8
+Buffalo Wings 6pc,2,161,20,0,4.31,2,1,55.4,6.63
+Spicy Jalapeno Burger,1,130,0,0,5.64,3,0,60.0,4.6
+Hi-King Burger,1,99,193,0,23.11,3,0,61.6,20.83
+French Fries Large,4,70,8,0,7.03,5,0,71.2,5.58
+Crispy Chicken 2pc,2,177,70,0,8.64,2,0,54.8,7.3
+Coleslaw,4,42,0,1,1.52,3,0,71.5,1.59
+Burger Steak Rice,3,100,31,0,8.45,2,0,57.9,10.26
+Mushroom Swiss,1,139,7,0,2.05,3,0,58.2,1.28
+Iced Tea Large,5,60,0,0,4.06,30,1,81.6,3.59
+Hot Coffee,5,48,6,0,3.85,60,0,79.0,3.98
+Sisig Rice Bowl,3,112,15,0,3.36,2,0,55.4,2.63
+Chicken Adobo Rice,3,106,94,0,11.65,2,0,56.4,10.23
+Spicy Jalapeno Burger,1,110,17,0,3.42,3,0,52.7,2.95
+Bacon Deluxe,1,163,12,0,6.57,3,0,58.2,7.18
+Crispy Chicken 1pc,2,96,111,0,19.22,2,1,56.3,19.61
+Iced Tea Large,5,52,40,0,6.63,30,1,79.0,10.15
+Mushroom Swiss,1,131,7,0,1.84,3,1,55.8,1.91
+Iced Tea Large,5,55,0,0,7.76,30,0,80.2,6.94
+Chicken Adobo Rice,3,101,68,0,8.75,2,0,54.3,8.82
+Mashed Potato,4,42,6,0,4.73,3,0,64.2,3.78
+Coleslaw,4,42,6,0,1.9,3,0,71.4,1.84
+Double Hi-King,1,141,40,0,15.64,3,0,56.0,9.95
+Buffalo Wings 6pc,2,170,22,0,6.82,2,0,57.6,4.51
+Mushroom Swiss,1,119,4,0,2.22,3,1,51.2,3.34
+French Fries Regular,4,51,51,0,27.89,5,0,72.7,24.02
+Hi-King Burger,1,85,0,0,3.29,3,0,55.1,2.91
+Hot Coffee,5,46,27,0,6.72,60,0,78.4,6.45
+Lemonade,5,46,7,0,5.51,30,1,78.1,4.71
+Bottled Water,5,27,0,5,0.52,180,0,74.4,0.37
+Bottled Water,5,27,24,0,5.88,180,0,74.5,6.68
+Mashed Potato,4,48,22,1,2.13,3,0,68.8,1.55
+Iced Tea Regular,5,41,98,0,14.13,30,0,80.6,10.31
+Iced Tea Regular,5,40,94,0,11.13,30,0,80.0,9.58
+Bottled Water,5,23,41,0,4.4,180,0,70.1,3.64
+Mashed Potato,4,45,2,0,2.06,3,0,66.4,1.56
+Cheese Burger,1,86,41,0,11.18,3,0,61.4,10.23
+Buffalo Wings 6pc,2,171,17,0,4.05,2,1,58.0,3.02
+Spicy Jalapeno Burger,1,113,21,0,3.8,3,0,54.0,3.7
+Lemonade,5,54,12,0,2.45,30,0,81.6,2.67
+Spicy Jalapeno Burger,1,131,63,0,5.3,3,1,60.2,6.13
+Onion Rings,4,58,17,0,8.26,4,1,69.0,6.88
+French Fries Regular,4,53,87,0,12.68,5,0,73.5,9.38
+Apple Pie,6,43,47,0,4.05,7,0,65.3,4.58
+Chicken Tenders 6pc,2,141,4,0,3.73,2,1,53.1,3.51
+Onion Rings,4,55,40,0,4.37,4,0,67.1,4.31
+Bottled Water,5,28,8,0,0.91,180,0,74.9,0.95
+Mushroom Swiss,1,123,14,0,4.53,3,0,53.0,5.68

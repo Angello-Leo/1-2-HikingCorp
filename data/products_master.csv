@@ -1,0 +1,31 @@
+code,sku,name,category,unit_price,cost_price,base_pop,shelf_life_days,initial_stock,reorder_level
+1,P001,Hi-King Burger,Burgers,89,38,12,3,160,40
+2,P002,Double Hi-King,Burgers,139,62,8,3,120,30
+3,P003,Cheese Burger,Burgers,79,33,10,3,140,35
+4,P004,Bacon Deluxe,Burgers,149,68,5.5,3,90,25
+5,P005,Mushroom Swiss,Burgers,129,58,3.0,3,150,20
+6,P006,Spicy Jalapeno Burger,Burgers,119,52,4.0,3,100,20
+7,P007,Crispy Chicken 1pc,Chicken,95,42,11,2,150,40
+8,P008,Crispy Chicken 2pc,Chicken,175,80,6,2,100,25
+9,P009,Chicken Sandwich,Chicken,99,44,7,3,110,30
+10,P010,Chicken Tenders 6pc,Chicken,149,66,5,2,90,25
+11,P011,Buffalo Wings 6pc,Chicken,159,72,4.5,2,90,20
+12,P012,Burger Steak Rice,Rice Meals,99,42,9,2,130,35
+13,P013,Chicken Adobo Rice,Rice Meals,109,46,6,2,100,25
+14,P014,Sisig Rice Bowl,Rice Meals,119,50,4.5,2,90,20
+15,P015,Pork Tonkatsu Rice,Rice Meals,129,56,2.5,2,120,15
+16,P016,French Fries Regular,Sides,49,14,13,5,200,50
+17,P017,French Fries Large,Sides,69,20,7,5,120,30
+18,P018,Onion Rings,Sides,59,18,4,4,90,20
+19,P019,Mozzarella Sticks,Sides,79,30,3.5,5,90,20
+20,P020,Coleslaw,Sides,39,12,2.0,3,110,15
+21,P021,Mashed Potato,Sides,45,15,3,3,80,15
+22,P022,Iced Tea Regular,Beverages,39,8,12,30,220,50
+23,P023,Iced Tea Large,Beverages,55,11,6,30,150,30
+24,P024,Cola Regular,Beverages,39,9,10,60,200,45
+25,P025,Lemonade,Beverages,49,10,5,30,110,25
+26,P026,Hot Coffee,Beverages,45,10,4,60,100,20
+27,P027,Bottled Water,Beverages,25,7,3,180,120,20
+28,P028,Chocolate Sundae,Desserts,49,16,7,14,120,30
+29,P029,Apple Pie,Desserts,45,15,5,7,100,25
+30,P030,Halo-Halo Special,Desserts,89,30,3,5,70,15
